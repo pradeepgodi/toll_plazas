@@ -1,0 +1,15 @@
+
+To create table schema from .sql file
+a)create a table under a database 
+b) open the .sql file and run
+https://www.pgadmin.org/docs/pgadmin4/9.0/table_dialog.html
+
+To import data from csv file
+select a table
+right click and import the data from csv filr
+
+https://www.pgadmin.org/docs/pgadmin4/9.0/import_export_data.html
+
+
+To create geo spatial data , instal the extension
+https://www.bostongis.com/PrinterFriendly.aspx?content_name=postgis_tut01
