@@ -1,4 +1,4 @@
-CREATE TABLE toll_plaza_data (
+CREATE TABLE toll_plaza (
     sr_no FLOAT,
     state TEXT,
     nh_no TEXT,
