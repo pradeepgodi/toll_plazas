@@ -65,3 +65,19 @@ hcm_eme_return_journey,hcm_eme_monthly_pass,hcm_eme_commercial_vehicle_reg_in_di
 _7_or_more_axle_single_journey,_7_or_more_axle_return_journey,_7_or_more_axle_monthly_pass,_7_or_more_axle_commercial_reg_in_district
 FROM toll_plaza 
 LIMIT 15
+
+
+-- Weigh bridges 
+
+ALTER TABLE test_weigh_bridge
+ADD COLUMN location GEOMETRY(Point, 4326); 
+
+
+UPDATE test_weigh_bridge
+SET location = ST_SetSRID(
+                  ST_MakePoint(
+                      longitude::DOUBLE PRECISION,
+                      latitude::DOUBLE PRECISION
+                  ),
+                  4326
+              );
