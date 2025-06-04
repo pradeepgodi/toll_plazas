@@ -1,0 +1,13 @@
+2025-06-03T16:12:37.082170 - Starting data collection for Karnataka
+2025-06-03T16:12:37.082170 - API call #1 at lat: 13.3173, lng: 73.7139, keyword: EV station
+2025-06-03T16:12:39.071460 - API call #2 at lat: 13.3173, lng: 74.7139, keyword: EV station
+2025-06-03T16:12:48.035712 - API call #5 at lat: 13.3173, lng: 75.7139, keyword: EV station
+2025-06-03T16:12:53.434959 - API call #7 at lat: 13.3173, lng: 76.7139, keyword: EV station
+2025-06-03T16:13:01.832699 - API call #10 at lat: 13.3173, lng: 77.7139, keyword: EV station
+2025-06-03T16:13:10.525326 - API call #13 at lat: 14.3173, lng: 73.7139, keyword: EV station
+2025-06-03T16:13:12.601847 - API call #14 at lat: 14.3173, lng: 74.7139, keyword: EV station
+2025-06-03T16:13:14.604332 - API call #15 at lat: 14.3173, lng: 75.7139, keyword: EV station
+2025-06-03T16:13:20.004722 - API call #17 at lat: 14.3173, lng: 76.7139, keyword: EV station
+2025-06-03T16:13:25.615888 - API call #19 at lat: 14.3173, lng: 77.7139, keyword: EV station
+2025-06-03T16:13:27.695661 - API call #20 at lat: 15.3173, lng: 73.7139, keyword: EV station
+2025-06-03T16:13:36.220811 - API call #23 at lat: 15.3173, lng: 74.7139, keyword: EV station

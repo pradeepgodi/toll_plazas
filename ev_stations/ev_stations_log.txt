@@ -1,0 +1,1044 @@
+2025-06-03T16:12:37.082170 - Starting data collection for Karnataka
+2025-06-03T16:12:37.082170 - API call #1 at lat: 13.3173, lng: 73.7139, keyword: EV station
+2025-06-03T16:12:39.071460 - API call #2 at lat: 13.3173, lng: 74.7139, keyword: EV station
+2025-06-03T16:12:48.035712 - API call #5 at lat: 13.3173, lng: 75.7139, keyword: EV station
+2025-06-03T16:12:53.434959 - API call #7 at lat: 13.3173, lng: 76.7139, keyword: EV station
+2025-06-03T16:13:01.832699 - API call #10 at lat: 13.3173, lng: 77.7139, keyword: EV station
+2025-06-03T16:13:10.525326 - API call #13 at lat: 14.3173, lng: 73.7139, keyword: EV station
+2025-06-03T16:13:12.601847 - API call #14 at lat: 14.3173, lng: 74.7139, keyword: EV station
+2025-06-03T16:13:14.604332 - API call #15 at lat: 14.3173, lng: 75.7139, keyword: EV station
+2025-06-03T16:13:20.004722 - API call #17 at lat: 14.3173, lng: 76.7139, keyword: EV station
+2025-06-03T16:13:25.615888 - API call #19 at lat: 14.3173, lng: 77.7139, keyword: EV station
+2025-06-03T16:13:27.695661 - API call #20 at lat: 15.3173, lng: 73.7139, keyword: EV station
+2025-06-03T16:13:36.220811 - API call #23 at lat: 15.3173, lng: 74.7139, keyword: EV station
+2025-06-03T16:13:45.285915 - API call #26 at lat: 15.3173, lng: 75.7139, keyword: EV station
+2025-06-03T16:13:47.580848 - API call #27 at lat: 15.3173, lng: 76.7139, keyword: EV station
+2025-06-03T16:13:49.962037 - API call #28 at lat: 15.3173, lng: 77.7139, keyword: EV station
+2025-06-03T16:13:55.292904 - API call #30 at lat: 16.3173, lng: 73.7139, keyword: EV station
+2025-06-03T16:13:57.471354 - API call #31 at lat: 16.3173, lng: 74.7139, keyword: EV station
+2025-06-03T16:14:05.643745 - API call #34 at lat: 16.3173, lng: 75.7139, keyword: EV station
+2025-06-03T16:14:07.711915 - API call #35 at lat: 16.3173, lng: 76.7139, keyword: EV station
+2025-06-03T16:14:09.719233 - API call #36 at lat: 16.3173, lng: 77.7139, keyword: EV station
+2025-06-03T16:14:15.081899 - API call #38 at lat: 17.3173, lng: 73.7139, keyword: EV station
+2025-06-03T16:14:23.897480 - API call #41 at lat: 17.3173, lng: 74.7139, keyword: EV station
+2025-06-03T16:14:29.218944 - API call #43 at lat: 17.3173, lng: 75.7139, keyword: EV station
+2025-06-03T16:14:34.701810 - API call #45 at lat: 17.3173, lng: 76.7139, keyword: EV station
+2025-06-03T16:14:36.746270 - API call #46 at lat: 17.3173, lng: 77.7139, keyword: EV station
+2025-06-03T16:14:38.917003 - Finished data collection for Karnataka
+2025-06-03T16:14:38.917003 - Total API calls: 46
+2025-06-03T16:14:38.917003 - Estimated API cost (USD): $1.47
+2025-06-03T16:16:12.471296 - Starting data collection for Andhra Pradesh
+2025-06-03T16:16:12.471296 - API call #47 at lat: 13.9129, lng: 77.74, keyword: EV station
+2025-06-03T16:16:14.565923 - API call #48 at lat: 13.9129, lng: 78.74, keyword: EV station
+2025-06-03T16:16:16.630358 - API call #49 at lat: 13.9129, lng: 79.74, keyword: EV station
+2025-06-03T16:16:25.032029 - API call #52 at lat: 13.9129, lng: 80.74, keyword: EV station
+2025-06-03T16:16:27.200321 - API call #53 at lat: 13.9129, lng: 81.74, keyword: EV station
+2025-06-03T16:16:29.384569 - API call #54 at lat: 14.9129, lng: 77.74, keyword: EV station
+2025-06-03T16:16:34.845781 - API call #56 at lat: 14.9129, lng: 78.74, keyword: EV station
+2025-06-03T16:16:36.896484 - API call #57 at lat: 14.9129, lng: 79.74, keyword: EV station
+2025-06-03T16:16:39.170645 - API call #58 at lat: 14.9129, lng: 80.74, keyword: EV station
+2025-06-03T16:16:41.402972 - API call #59 at lat: 14.9129, lng: 81.74, keyword: EV station
+2025-06-03T16:16:43.465387 - API call #60 at lat: 15.9129, lng: 77.74, keyword: EV station
+2025-06-03T16:16:48.850761 - API call #62 at lat: 15.9129, lng: 78.74, keyword: EV station
+2025-06-03T16:16:50.877997 - API call #63 at lat: 15.9129, lng: 79.74, keyword: EV station
+2025-06-03T16:16:56.507705 - API call #65 at lat: 15.9129, lng: 80.74, keyword: EV station
+2025-06-03T16:17:01.855342 - API call #67 at lat: 15.9129, lng: 81.74, keyword: EV station
+2025-06-03T16:17:03.971445 - API call #68 at lat: 16.9129, lng: 77.74, keyword: EV station
+2025-06-03T16:17:06.224586 - API call #69 at lat: 16.9129, lng: 78.74, keyword: EV station
+2025-06-03T16:17:15.031313 - API call #72 at lat: 16.9129, lng: 79.74, keyword: EV station
+2025-06-03T16:17:20.456703 - API call #74 at lat: 16.9129, lng: 80.74, keyword: EV station
+2025-06-03T16:17:29.130608 - API call #77 at lat: 16.9129, lng: 81.74, keyword: EV station
+2025-06-03T16:17:34.573526 - API call #79 at lat: 17.9129, lng: 77.74, keyword: EV station
+2025-06-03T16:17:39.909254 - API call #81 at lat: 17.9129, lng: 78.74, keyword: EV station
+2025-06-03T16:17:48.881159 - API call #84 at lat: 17.9129, lng: 79.74, keyword: EV station
+2025-06-03T16:17:54.684465 - API call #86 at lat: 17.9129, lng: 80.74, keyword: EV station
+2025-06-03T16:17:57.108960 - API call #87 at lat: 17.9129, lng: 81.74, keyword: EV station
+2025-06-03T16:17:59.276191 - Finished data collection for Andhra Pradesh
+2025-06-03T16:17:59.279490 - Total API calls: 87
+2025-06-03T16:17:59.281665 - Estimated API cost (USD): $2.78
+2025-06-03T16:21:42.868627 - Starting data collection for Arunachal Pradesh
+2025-06-03T16:21:42.868627 - API call #88 at lat: 26.218, lng: 92.7278, keyword: EV charging point
+2025-06-03T16:21:45.083662 - API call #89 at lat: 26.218, lng: 93.7278, keyword: EV charging point
+2025-06-03T16:21:47.239984 - API call #90 at lat: 26.218, lng: 94.7278, keyword: EV charging point
+2025-06-03T16:21:50.139027 - API call #91 at lat: 26.218, lng: 95.7278, keyword: EV charging point
+2025-06-03T16:21:52.193068 - API call #92 at lat: 26.218, lng: 96.7278, keyword: EV charging point
+2025-06-03T16:21:54.256527 - API call #93 at lat: 27.218, lng: 92.7278, keyword: EV charging point
+2025-06-03T16:21:57.104556 - API call #94 at lat: 27.218, lng: 93.7278, keyword: EV charging point
+2025-06-03T16:21:59.246318 - API call #95 at lat: 27.218, lng: 94.7278, keyword: EV charging point
+2025-06-03T16:22:01.488439 - API call #96 at lat: 27.218, lng: 95.7278, keyword: EV charging point
+2025-06-03T16:22:03.463337 - API call #97 at lat: 27.218, lng: 96.7278, keyword: EV charging point
+2025-06-03T16:22:05.616467 - API call #98 at lat: 28.218, lng: 92.7278, keyword: EV charging point
+2025-06-03T16:22:07.804530 - API call #99 at lat: 28.218, lng: 93.7278, keyword: EV charging point
+2025-06-03T16:22:09.775590 - API call #100 at lat: 28.218, lng: 94.7278, keyword: EV charging point
+2025-06-03T16:22:11.937089 - API call #101 at lat: 28.218, lng: 95.7278, keyword: EV charging point
+2025-06-03T16:22:14.004318 - API call #102 at lat: 28.218, lng: 96.7278, keyword: EV charging point
+2025-06-03T16:22:16.117551 - API call #103 at lat: 29.218, lng: 92.7278, keyword: EV charging point
+2025-06-03T16:22:17.997052 - API call #104 at lat: 29.218, lng: 93.7278, keyword: EV charging point
+2025-06-03T16:22:19.980102 - API call #105 at lat: 29.218, lng: 94.7278, keyword: EV charging point
+2025-06-03T16:22:22.176586 - API call #106 at lat: 29.218, lng: 95.7278, keyword: EV charging point
+2025-06-03T16:22:24.236120 - API call #107 at lat: 29.218, lng: 96.7278, keyword: EV charging point
+2025-06-03T16:22:26.211894 - API call #108 at lat: 30.218, lng: 92.7278, keyword: EV charging point
+2025-06-03T16:22:28.263900 - API call #109 at lat: 30.218, lng: 93.7278, keyword: EV charging point
+2025-06-03T16:22:30.268860 - API call #110 at lat: 30.218, lng: 94.7278, keyword: EV charging point
+2025-06-03T16:22:32.456231 - API call #111 at lat: 30.218, lng: 95.7278, keyword: EV charging point
+2025-06-03T16:22:34.341897 - API call #112 at lat: 30.218, lng: 96.7278, keyword: EV charging point
+2025-06-03T16:22:36.373070 - Finished data collection for Arunachal Pradesh
+2025-06-03T16:22:36.373070 - Total API calls: 112
+2025-06-03T16:22:36.373070 - Estimated API cost (USD): $3.58
+2025-06-03T16:23:55.973659 - Starting data collection for Assam
+2025-06-03T16:23:55.973659 - API call #113 at lat: 24.2006, lng: 90.9376, keyword: EV charging point
+2025-06-03T16:23:58.098431 - API call #114 at lat: 24.2006, lng: 91.9376, keyword: EV charging point
+2025-06-03T16:24:00.535937 - API call #115 at lat: 24.2006, lng: 92.9376, keyword: EV charging point
+2025-06-03T16:24:02.738113 - API call #116 at lat: 24.2006, lng: 93.9376, keyword: EV charging point
+2025-06-03T16:24:04.622468 - API call #117 at lat: 24.2006, lng: 94.9376, keyword: EV charging point
+2025-06-03T16:24:07.179575 - API call #118 at lat: 25.2006, lng: 90.9376, keyword: EV charging point
+2025-06-03T16:24:09.571198 - API call #119 at lat: 25.2006, lng: 91.9376, keyword: EV charging point
+2025-06-03T16:24:11.870778 - API call #120 at lat: 25.2006, lng: 92.9376, keyword: EV charging point
+2025-06-03T16:24:13.903960 - API call #121 at lat: 25.2006, lng: 93.9376, keyword: EV charging point
+2025-06-03T16:24:16.005001 - API call #122 at lat: 25.2006, lng: 94.9376, keyword: EV charging point
+2025-06-03T16:24:18.196151 - API call #123 at lat: 26.2006, lng: 90.9376, keyword: EV charging point
+2025-06-03T16:24:20.273308 - API call #124 at lat: 26.2006, lng: 91.9376, keyword: EV charging point
+2025-06-03T16:24:28.639590 - API call #127 at lat: 26.2006, lng: 92.9376, keyword: EV charging point
+2025-06-03T16:24:30.754931 - API call #128 at lat: 26.2006, lng: 93.9376, keyword: EV charging point
+2025-06-03T16:24:32.682485 - API call #129 at lat: 26.2006, lng: 94.9376, keyword: EV charging point
+2025-06-03T16:24:34.629800 - API call #130 at lat: 27.2006, lng: 90.9376, keyword: EV charging point
+2025-06-03T16:24:36.593154 - API call #131 at lat: 27.2006, lng: 91.9376, keyword: EV charging point
+2025-06-03T16:24:38.535701 - API call #132 at lat: 27.2006, lng: 92.9376, keyword: EV charging point
+2025-06-03T16:24:40.816912 - API call #133 at lat: 27.2006, lng: 93.9376, keyword: EV charging point
+2025-06-03T16:24:42.810482 - API call #134 at lat: 27.2006, lng: 94.9376, keyword: EV charging point
+2025-06-03T16:24:45.014246 - API call #135 at lat: 28.2006, lng: 90.9376, keyword: EV charging point
+2025-06-03T16:24:46.926987 - API call #136 at lat: 28.2006, lng: 91.9376, keyword: EV charging point
+2025-06-03T16:24:48.836519 - API call #137 at lat: 28.2006, lng: 92.9376, keyword: EV charging point
+2025-06-03T16:24:50.834509 - API call #138 at lat: 28.2006, lng: 93.9376, keyword: EV charging point
+2025-06-03T16:24:52.810585 - API call #139 at lat: 28.2006, lng: 94.9376, keyword: EV charging point
+2025-06-03T16:24:54.938820 - Finished data collection for Assam
+2025-06-03T16:24:54.938820 - Total API calls: 139
+2025-06-03T16:24:54.938820 - Estimated API cost (USD): $4.45
+2025-06-03T16:24:54.938820 - Starting data collection for Bihar
+2025-06-03T16:24:54.938820 - API call #140 at lat: 23.0961, lng: 83.3131, keyword: EV charging point
+2025-06-03T16:24:57.178864 - API call #141 at lat: 23.0961, lng: 84.3131, keyword: EV charging point
+2025-06-03T16:24:59.176757 - API call #142 at lat: 23.0961, lng: 85.3131, keyword: EV charging point
+2025-06-03T16:25:04.816877 - API call #144 at lat: 23.0961, lng: 86.3131, keyword: EV charging point
+2025-06-03T16:25:08.011309 - API call #145 at lat: 23.0961, lng: 87.3131, keyword: EV charging point
+2025-06-03T16:25:14.223784 - API call #147 at lat: 24.0961, lng: 83.3131, keyword: EV charging point
+2025-06-03T16:25:16.193722 - API call #148 at lat: 24.0961, lng: 84.3131, keyword: EV charging point
+2025-06-03T16:25:18.286287 - API call #149 at lat: 24.0961, lng: 85.3131, keyword: EV charging point
+2025-06-03T16:25:20.346080 - API call #150 at lat: 24.0961, lng: 86.3131, keyword: EV charging point
+2025-06-03T16:25:25.497236 - API call #152 at lat: 24.0961, lng: 87.3131, keyword: EV charging point
+2025-06-03T16:25:27.762331 - API call #153 at lat: 25.0961, lng: 83.3131, keyword: EV charging point
+2025-06-03T16:25:29.944965 - API call #154 at lat: 25.0961, lng: 84.3131, keyword: EV charging point
+2025-06-03T16:25:32.193425 - API call #155 at lat: 25.0961, lng: 85.3131, keyword: EV charging point
+2025-06-03T16:25:35.357411 - API call #156 at lat: 25.0961, lng: 86.3131, keyword: EV charging point
+2025-06-03T16:25:37.375370 - API call #157 at lat: 25.0961, lng: 87.3131, keyword: EV charging point
+2025-06-03T16:25:39.558038 - API call #158 at lat: 26.0961, lng: 83.3131, keyword: EV charging point
+2025-06-03T16:25:41.998052 - API call #159 at lat: 26.0961, lng: 84.3131, keyword: EV charging point
+2025-06-03T16:25:44.191850 - API call #160 at lat: 26.0961, lng: 85.3131, keyword: EV charging point
+2025-06-03T16:25:46.489462 - API call #161 at lat: 26.0961, lng: 86.3131, keyword: EV charging point
+2025-06-03T16:25:49.211310 - API call #162 at lat: 26.0961, lng: 87.3131, keyword: EV charging point
+2025-06-03T16:25:52.561099 - API call #163 at lat: 27.0961, lng: 83.3131, keyword: EV charging point
+2025-06-03T16:25:55.465625 - API call #164 at lat: 27.0961, lng: 84.3131, keyword: EV charging point
+2025-06-03T16:25:58.777101 - API call #165 at lat: 27.0961, lng: 85.3131, keyword: EV charging point
+2025-06-03T16:26:04.323667 - API call #167 at lat: 27.0961, lng: 86.3131, keyword: EV charging point
+2025-06-03T16:26:12.986175 - API call #170 at lat: 27.0961, lng: 87.3131, keyword: EV charging point
+2025-06-03T16:26:18.252150 - Finished data collection for Bihar
+2025-06-03T16:26:18.254195 - Total API calls: 171
+2025-06-03T16:26:18.255177 - Estimated API cost (USD): $5.47
+2025-06-03T16:26:18.257220 - Starting data collection for Chhattisgarh
+2025-06-03T16:26:18.259195 - API call #172 at lat: 19.2787, lng: 79.8661, keyword: EV charging point
+2025-06-03T16:26:20.339690 - API call #173 at lat: 19.2787, lng: 80.8661, keyword: EV charging point
+2025-06-03T16:26:22.326502 - API call #174 at lat: 19.2787, lng: 81.8661, keyword: EV charging point
+2025-06-03T16:26:24.469956 - API call #175 at lat: 19.2787, lng: 82.8661, keyword: EV charging point
+2025-06-03T16:26:26.588771 - API call #176 at lat: 19.2787, lng: 83.8661, keyword: EV charging point
+2025-06-03T16:26:28.572800 - API call #177 at lat: 20.2787, lng: 79.8661, keyword: EV charging point
+2025-06-03T16:26:30.681116 - API call #178 at lat: 20.2787, lng: 80.8661, keyword: EV charging point
+2025-06-03T16:26:32.718887 - API call #179 at lat: 20.2787, lng: 81.8661, keyword: EV charging point
+2025-06-03T16:26:34.830899 - API call #180 at lat: 20.2787, lng: 82.8661, keyword: EV charging point
+2025-06-03T16:26:36.967682 - API call #181 at lat: 20.2787, lng: 83.8661, keyword: EV charging point
+2025-06-03T16:26:38.943370 - API call #182 at lat: 21.2787, lng: 79.8661, keyword: EV charging point
+2025-06-03T16:26:41.177710 - API call #183 at lat: 21.2787, lng: 80.8661, keyword: EV charging point
+2025-06-03T16:26:43.200972 - API call #184 at lat: 21.2787, lng: 81.8661, keyword: EV charging point
+2025-06-03T16:26:51.933740 - API call #187 at lat: 21.2787, lng: 82.8661, keyword: EV charging point
+2025-06-03T16:26:53.937638 - API call #188 at lat: 21.2787, lng: 83.8661, keyword: EV charging point
+2025-06-03T16:26:55.999389 - API call #189 at lat: 22.2787, lng: 79.8661, keyword: EV charging point
+2025-06-03T16:26:58.163920 - API call #190 at lat: 22.2787, lng: 80.8661, keyword: EV charging point
+2025-06-03T16:27:00.359007 - API call #191 at lat: 22.2787, lng: 81.8661, keyword: EV charging point
+2025-06-03T16:27:02.679082 - API call #192 at lat: 22.2787, lng: 82.8661, keyword: EV charging point
+2025-06-03T16:27:04.694399 - API call #193 at lat: 22.2787, lng: 83.8661, keyword: EV charging point
+2025-06-03T16:27:06.826959 - API call #194 at lat: 23.2787, lng: 79.8661, keyword: EV charging point
+2025-06-03T16:27:11.943538 - API call #196 at lat: 23.2787, lng: 80.8661, keyword: EV charging point
+2025-06-03T16:27:14.041475 - API call #197 at lat: 23.2787, lng: 81.8661, keyword: EV charging point
+2025-06-03T16:27:16.008479 - API call #198 at lat: 23.2787, lng: 82.8661, keyword: EV charging point
+2025-06-03T16:27:17.846588 - API call #199 at lat: 23.2787, lng: 83.8661, keyword: EV charging point
+2025-06-03T16:27:19.919751 - Finished data collection for Chhattisgarh
+2025-06-03T16:27:19.919751 - Total API calls: 199
+2025-06-03T16:27:19.919751 - Estimated API cost (USD): $6.37
+2025-06-03T16:27:19.919751 - Starting data collection for Goa
+2025-06-03T16:27:19.919751 - API call #200 at lat: 13.2993, lng: 72.124, keyword: EV charging point
+2025-06-03T16:27:21.779701 - API call #201 at lat: 13.2993, lng: 73.124, keyword: EV charging point
+2025-06-03T16:27:23.913509 - API call #202 at lat: 13.2993, lng: 74.124, keyword: EV charging point
+2025-06-03T16:27:26.058996 - API call #203 at lat: 13.2993, lng: 75.124, keyword: EV charging point
+2025-06-03T16:27:34.529946 - API call #206 at lat: 13.2993, lng: 76.124, keyword: EV charging point
+2025-06-03T16:27:39.773865 - API call #208 at lat: 14.2993, lng: 72.124, keyword: EV charging point
+2025-06-03T16:27:41.689898 - API call #209 at lat: 14.2993, lng: 73.124, keyword: EV charging point
+2025-06-03T16:27:43.753934 - API call #210 at lat: 14.2993, lng: 74.124, keyword: EV charging point
+2025-06-03T16:27:45.805049 - API call #211 at lat: 14.2993, lng: 75.124, keyword: EV charging point
+2025-06-03T16:27:47.954756 - API call #212 at lat: 14.2993, lng: 76.124, keyword: EV charging point
+2025-06-03T16:27:53.084922 - API call #214 at lat: 15.2993, lng: 72.124, keyword: EV charging point
+2025-06-03T16:27:55.070813 - API call #215 at lat: 15.2993, lng: 73.124, keyword: EV charging point
+2025-06-03T16:27:57.202101 - API call #216 at lat: 15.2993, lng: 74.124, keyword: EV charging point
+2025-06-03T16:28:05.414502 - API call #219 at lat: 15.2993, lng: 75.124, keyword: EV charging point
+2025-06-03T16:28:10.556704 - API call #221 at lat: 15.2993, lng: 76.124, keyword: EV charging point
+2025-06-03T16:28:12.566952 - API call #222 at lat: 16.299300000000002, lng: 72.124, keyword: EV charging point
+2025-06-03T16:28:14.459154 - API call #223 at lat: 16.299300000000002, lng: 73.124, keyword: EV charging point
+2025-06-03T16:28:16.412993 - API call #224 at lat: 16.299300000000002, lng: 74.124, keyword: EV charging point
+2025-06-03T16:28:24.627628 - API call #227 at lat: 16.299300000000002, lng: 75.124, keyword: EV charging point
+2025-06-03T16:28:26.635097 - API call #228 at lat: 16.299300000000002, lng: 76.124, keyword: EV charging point
+2025-06-03T16:28:28.738847 - API call #229 at lat: 17.299300000000002, lng: 72.124, keyword: EV charging point
+2025-06-03T16:28:30.800270 - API call #230 at lat: 17.299300000000002, lng: 73.124, keyword: EV charging point
+2025-06-03T16:28:32.803338 - API call #231 at lat: 17.299300000000002, lng: 74.124, keyword: EV charging point
+2025-06-03T16:28:41.098788 - API call #234 at lat: 17.299300000000002, lng: 75.124, keyword: EV charging point
+2025-06-03T16:28:43.180639 - API call #235 at lat: 17.299300000000002, lng: 76.124, keyword: EV charging point
+2025-06-03T16:28:48.456099 - Finished data collection for Goa
+2025-06-03T16:28:48.456099 - Total API calls: 236
+2025-06-03T16:28:48.456099 - Estimated API cost (USD): $7.55
+2025-06-03T16:28:48.456099 - Starting data collection for Gujarat
+2025-06-03T16:28:48.456099 - API call #237 at lat: 20.2587, lng: 69.1924, keyword: EV charging point
+2025-06-03T16:28:50.418285 - API call #238 at lat: 20.2587, lng: 70.1924, keyword: EV charging point
+2025-06-03T16:28:52.399524 - API call #239 at lat: 20.2587, lng: 71.1924, keyword: EV charging point
+2025-06-03T16:28:54.597252 - API call #240 at lat: 20.2587, lng: 72.1924, keyword: EV charging point
+2025-06-03T16:28:56.605195 - API call #241 at lat: 20.2587, lng: 73.1924, keyword: EV charging point
+2025-06-03T16:29:04.883724 - API call #244 at lat: 21.2587, lng: 69.1924, keyword: EV charging point
+2025-06-03T16:29:06.885531 - API call #245 at lat: 21.2587, lng: 70.1924, keyword: EV charging point
+2025-06-03T16:29:12.165380 - API call #247 at lat: 21.2587, lng: 71.1924, keyword: EV charging point
+2025-06-03T16:29:14.572561 - API call #248 at lat: 21.2587, lng: 72.1924, keyword: EV charging point
+2025-06-03T16:29:16.590672 - API call #249 at lat: 21.2587, lng: 73.1924, keyword: EV charging point
+2025-06-03T16:29:24.997019 - API call #252 at lat: 22.2587, lng: 69.1924, keyword: EV charging point
+2025-06-03T16:29:27.179698 - API call #253 at lat: 22.2587, lng: 70.1924, keyword: EV charging point
+2025-06-03T16:29:36.635418 - API call #256 at lat: 22.2587, lng: 71.1924, keyword: EV charging point
+2025-06-03T16:29:45.452101 - API call #259 at lat: 22.2587, lng: 72.1924, keyword: EV charging point
+2025-06-03T16:29:51.012356 - API call #261 at lat: 22.2587, lng: 73.1924, keyword: EV charging point
+2025-06-03T16:29:59.812029 - API call #264 at lat: 23.2587, lng: 69.1924, keyword: EV charging point
+2025-06-03T16:30:01.883376 - API call #265 at lat: 23.2587, lng: 70.1924, keyword: EV charging point
+2025-06-03T16:30:04.175100 - API call #266 at lat: 23.2587, lng: 71.1924, keyword: EV charging point
+2025-06-03T16:30:06.186523 - API call #267 at lat: 23.2587, lng: 72.1924, keyword: EV charging point
+2025-06-03T16:30:14.881338 - API call #270 at lat: 23.2587, lng: 73.1924, keyword: EV charging point
+2025-06-03T16:30:20.087312 - API call #272 at lat: 24.2587, lng: 69.1924, keyword: EV charging point
+2025-06-03T16:30:22.168984 - API call #273 at lat: 24.2587, lng: 70.1924, keyword: EV charging point
+2025-06-03T16:30:24.573798 - API call #274 at lat: 24.2587, lng: 71.1924, keyword: EV charging point
+2025-06-03T16:30:26.513546 - API call #275 at lat: 24.2587, lng: 72.1924, keyword: EV charging point
+2025-06-03T16:30:31.528144 - API call #277 at lat: 24.2587, lng: 73.1924, keyword: EV charging point
+2025-06-03T16:30:40.003245 - Finished data collection for Gujarat
+2025-06-03T16:30:40.003245 - Total API calls: 279
+2025-06-03T16:30:40.003245 - Estimated API cost (USD): $8.93
+2025-06-03T16:30:40.003245 - Starting data collection for Haryana
+2025-06-03T16:30:40.003245 - API call #280 at lat: 27.0588, lng: 74.0856, keyword: EV charging point
+2025-06-03T16:30:42.030379 - API call #281 at lat: 27.0588, lng: 75.0856, keyword: EV charging point
+2025-06-03T16:30:47.494132 - API call #283 at lat: 27.0588, lng: 76.0856, keyword: EV charging point
+2025-06-03T16:30:55.933359 - API call #286 at lat: 27.0588, lng: 77.0856, keyword: EV charging point
+2025-06-03T16:30:58.115366 - API call #287 at lat: 27.0588, lng: 78.0856, keyword: EV charging point
+2025-06-03T16:31:06.437894 - API call #290 at lat: 28.0588, lng: 74.0856, keyword: EV charging point
+2025-06-03T16:31:08.503087 - API call #291 at lat: 28.0588, lng: 75.0856, keyword: EV charging point
+2025-06-03T16:31:13.675207 - API call #293 at lat: 28.0588, lng: 76.0856, keyword: EV charging point
+2025-06-03T16:31:18.748482 - API call #295 at lat: 28.0588, lng: 77.0856, keyword: EV charging point
+2025-06-03T16:31:27.084129 - API call #298 at lat: 28.0588, lng: 78.0856, keyword: EV charging point
+2025-06-03T16:31:29.236824 - API call #299 at lat: 29.0588, lng: 74.0856, keyword: EV charging point
+2025-06-03T16:31:31.179792 - API call #300 at lat: 29.0588, lng: 75.0856, keyword: EV charging point
+2025-06-03T16:31:33.452583 - API call #301 at lat: 29.0588, lng: 76.0856, keyword: EV charging point
+2025-06-03T16:31:41.786966 - API call #304 at lat: 29.0588, lng: 77.0856, keyword: EV charging point
+2025-06-03T16:31:50.033977 - API call #307 at lat: 29.0588, lng: 78.0856, keyword: EV charging point
+2025-06-03T16:31:58.236004 - API call #310 at lat: 30.0588, lng: 74.0856, keyword: EV charging point
+2025-06-03T16:32:00.279231 - API call #311 at lat: 30.0588, lng: 75.0856, keyword: EV charging point
+2025-06-03T16:32:02.388676 - API call #312 at lat: 30.0588, lng: 76.0856, keyword: EV charging point
+2025-06-03T16:32:07.559949 - API call #314 at lat: 30.0588, lng: 77.0856, keyword: EV charging point
+2025-06-03T16:32:15.919016 - API call #317 at lat: 30.0588, lng: 78.0856, keyword: EV charging point
+2025-06-03T16:32:24.084974 - API call #320 at lat: 31.0588, lng: 74.0856, keyword: EV charging point
+2025-06-03T16:32:26.151429 - API call #321 at lat: 31.0588, lng: 75.0856, keyword: EV charging point
+2025-06-03T16:32:28.163399 - API call #322 at lat: 31.0588, lng: 76.0856, keyword: EV charging point
+2025-06-03T16:32:36.614272 - API call #325 at lat: 31.0588, lng: 77.0856, keyword: EV charging point
+2025-06-03T16:32:44.992742 - API call #328 at lat: 31.0588, lng: 78.0856, keyword: EV charging point
+2025-06-03T16:32:46.993039 - Finished data collection for Haryana
+2025-06-03T16:32:46.993039 - Total API calls: 328
+2025-06-03T16:32:46.993039 - Estimated API cost (USD): $10.5
+2025-06-03T16:32:46.993039 - Starting data collection for Himachal Pradesh
+2025-06-03T16:32:46.993039 - API call #329 at lat: 29.1048, lng: 75.1734, keyword: EV charging point
+2025-06-03T16:32:52.177912 - API call #331 at lat: 29.1048, lng: 76.1734, keyword: EV charging point
+2025-06-03T16:33:00.378184 - API call #334 at lat: 29.1048, lng: 77.1734, keyword: EV charging point
+2025-06-03T16:33:08.628720 - API call #337 at lat: 29.1048, lng: 78.1734, keyword: EV charging point
+2025-06-03T16:33:16.926308 - API call #340 at lat: 29.1048, lng: 79.1734, keyword: EV charging point
+2025-06-03T16:33:25.500635 - API call #343 at lat: 30.1048, lng: 75.1734, keyword: EV charging point
+2025-06-03T16:33:27.590394 - API call #344 at lat: 30.1048, lng: 76.1734, keyword: EV charging point
+2025-06-03T16:33:32.858691 - API call #346 at lat: 30.1048, lng: 77.1734, keyword: EV charging point
+2025-06-03T16:33:41.329547 - API call #349 at lat: 30.1048, lng: 78.1734, keyword: EV charging point
+2025-06-03T16:33:49.568505 - API call #352 at lat: 30.1048, lng: 79.1734, keyword: EV charging point
+2025-06-03T16:33:51.528785 - API call #353 at lat: 31.1048, lng: 75.1734, keyword: EV charging point
+2025-06-03T16:33:57.066869 - API call #355 at lat: 31.1048, lng: 76.1734, keyword: EV charging point
+2025-06-03T16:34:05.248230 - API call #358 at lat: 31.1048, lng: 77.1734, keyword: EV charging point
+2025-06-03T16:34:13.739979 - API call #361 at lat: 31.1048, lng: 78.1734, keyword: EV charging point
+2025-06-03T16:34:15.956458 - API call #362 at lat: 31.1048, lng: 79.1734, keyword: EV charging point
+2025-06-03T16:34:18.070120 - API call #363 at lat: 32.1048, lng: 75.1734, keyword: EV charging point
+2025-06-03T16:34:20.108686 - API call #364 at lat: 32.1048, lng: 76.1734, keyword: EV charging point
+2025-06-03T16:34:25.110110 - API call #366 at lat: 32.1048, lng: 77.1734, keyword: EV charging point
+2025-06-03T16:34:27.456219 - API call #367 at lat: 32.1048, lng: 78.1734, keyword: EV charging point
+2025-06-03T16:34:29.558480 - API call #368 at lat: 32.1048, lng: 79.1734, keyword: EV charging point
+2025-06-03T16:34:31.634750 - API call #369 at lat: 33.1048, lng: 75.1734, keyword: EV charging point
+2025-06-03T16:34:36.891540 - API call #371 at lat: 33.1048, lng: 76.1734, keyword: EV charging point
+2025-06-03T16:34:38.792083 - API call #372 at lat: 33.1048, lng: 77.1734, keyword: EV charging point
+2025-06-03T16:34:40.883296 - API call #373 at lat: 33.1048, lng: 78.1734, keyword: EV charging point
+2025-06-03T16:34:42.912663 - API call #374 at lat: 33.1048, lng: 79.1734, keyword: EV charging point
+2025-06-03T16:34:44.879419 - Finished data collection for Himachal Pradesh
+2025-06-03T16:34:44.879419 - Total API calls: 374
+2025-06-03T16:34:44.879419 - Estimated API cost (USD): $11.97
+2025-06-03T16:34:44.879419 - Starting data collection for Jharkhand
+2025-06-03T16:34:44.879419 - API call #375 at lat: 21.6102, lng: 83.2799, keyword: EV charging point
+2025-06-03T16:34:47.024799 - API call #376 at lat: 21.6102, lng: 84.2799, keyword: EV charging point
+2025-06-03T16:34:48.947421 - API call #377 at lat: 21.6102, lng: 85.2799, keyword: EV charging point
+2025-06-03T16:34:50.909247 - API call #378 at lat: 21.6102, lng: 86.2799, keyword: EV charging point
+2025-06-03T16:34:52.909748 - API call #379 at lat: 21.6102, lng: 87.2799, keyword: EV charging point
+2025-06-03T16:34:55.101188 - API call #380 at lat: 22.6102, lng: 83.2799, keyword: EV charging point
+2025-06-03T16:34:57.078431 - API call #381 at lat: 22.6102, lng: 84.2799, keyword: EV charging point
+2025-06-03T16:34:59.047132 - API call #382 at lat: 22.6102, lng: 85.2799, keyword: EV charging point
+2025-06-03T16:35:01.149841 - API call #383 at lat: 22.6102, lng: 86.2799, keyword: EV charging point
+2025-06-03T16:35:03.337905 - API call #384 at lat: 22.6102, lng: 87.2799, keyword: EV charging point
+2025-06-03T16:35:05.286619 - API call #385 at lat: 23.6102, lng: 83.2799, keyword: EV charging point
+2025-06-03T16:35:07.379451 - API call #386 at lat: 23.6102, lng: 84.2799, keyword: EV charging point
+2025-06-03T16:35:09.527134 - API call #387 at lat: 23.6102, lng: 85.2799, keyword: EV charging point
+2025-06-03T16:35:14.846161 - API call #389 at lat: 23.6102, lng: 86.2799, keyword: EV charging point
+2025-06-03T16:35:16.787950 - API call #390 at lat: 23.6102, lng: 87.2799, keyword: EV charging point
+2025-06-03T16:35:22.027964 - API call #392 at lat: 24.6102, lng: 83.2799, keyword: EV charging point
+2025-06-03T16:35:24.140701 - API call #393 at lat: 24.6102, lng: 84.2799, keyword: EV charging point
+2025-06-03T16:35:26.132638 - API call #394 at lat: 24.6102, lng: 85.2799, keyword: EV charging point
+2025-06-03T16:35:28.162240 - API call #395 at lat: 24.6102, lng: 86.2799, keyword: EV charging point
+2025-06-03T16:35:30.104467 - API call #396 at lat: 24.6102, lng: 87.2799, keyword: EV charging point
+2025-06-03T16:35:32.084228 - API call #397 at lat: 25.6102, lng: 83.2799, keyword: EV charging point
+2025-06-03T16:35:34.156680 - API call #398 at lat: 25.6102, lng: 84.2799, keyword: EV charging point
+2025-06-03T16:35:36.334659 - API call #399 at lat: 25.6102, lng: 85.2799, keyword: EV charging point
+2025-06-03T16:35:44.671075 - API call #402 at lat: 25.6102, lng: 86.2799, keyword: EV charging point
+2025-06-03T16:35:46.760398 - API call #403 at lat: 25.6102, lng: 87.2799, keyword: EV charging point
+2025-06-03T16:35:48.976344 - Finished data collection for Jharkhand
+2025-06-03T16:35:48.976344 - Total API calls: 403
+2025-06-03T16:35:48.976344 - Estimated API cost (USD): $12.9
+2025-06-03T16:35:48.976344 - Starting data collection for Kerala
+2025-06-03T16:35:48.976344 - API call #404 at lat: 8.8505, lng: 74.2711, keyword: EV charging point
+2025-06-03T16:35:50.897425 - API call #405 at lat: 8.8505, lng: 75.2711, keyword: EV charging point
+2025-06-03T16:35:52.833147 - API call #406 at lat: 8.8505, lng: 76.2711, keyword: EV charging point
+2025-06-03T16:36:01.121257 - API call #409 at lat: 8.8505, lng: 77.2711, keyword: EV charging point
+2025-06-03T16:36:09.465090 - API call #412 at lat: 8.8505, lng: 78.2711, keyword: EV charging point
+2025-06-03T16:36:14.488931 - API call #414 at lat: 9.8505, lng: 74.2711, keyword: EV charging point
+2025-06-03T16:36:16.392254 - API call #415 at lat: 9.8505, lng: 75.2711, keyword: EV charging point
+2025-06-03T16:36:18.495703 - API call #416 at lat: 9.8505, lng: 76.2711, keyword: EV charging point
+2025-06-03T16:36:26.911556 - API call #419 at lat: 9.8505, lng: 77.2711, keyword: EV charging point
+2025-06-03T16:36:35.154852 - API call #422 at lat: 9.8505, lng: 78.2711, keyword: EV charging point
+2025-06-03T16:36:43.454318 - API call #425 at lat: 10.8505, lng: 74.2711, keyword: EV charging point
+2025-06-03T16:36:45.541953 - API call #426 at lat: 10.8505, lng: 75.2711, keyword: EV charging point
+2025-06-03T16:36:47.665631 - API call #427 at lat: 10.8505, lng: 76.2711, keyword: EV charging point
+2025-06-03T16:36:56.055272 - API call #430 at lat: 10.8505, lng: 77.2711, keyword: EV charging point
+2025-06-03T16:37:04.377110 - API call #433 at lat: 10.8505, lng: 78.2711, keyword: EV charging point
+2025-06-03T16:37:12.790513 - API call #436 at lat: 11.8505, lng: 74.2711, keyword: EV charging point
+2025-06-03T16:37:14.738315 - API call #437 at lat: 11.8505, lng: 75.2711, keyword: EV charging point
+2025-06-03T16:37:23.002568 - API call #440 at lat: 11.8505, lng: 76.2711, keyword: EV charging point
+2025-06-03T16:37:31.763586 - API call #443 at lat: 11.8505, lng: 77.2711, keyword: EV charging point
+2025-06-03T16:37:33.897924 - API call #444 at lat: 11.8505, lng: 78.2711, keyword: EV charging point
+2025-06-03T16:37:42.250503 - API call #447 at lat: 12.8505, lng: 74.2711, keyword: EV charging point
+2025-06-03T16:37:44.184690 - API call #448 at lat: 12.8505, lng: 75.2711, keyword: EV charging point
+2025-06-03T16:37:52.746894 - API call #451 at lat: 12.8505, lng: 76.2711, keyword: EV charging point
+2025-06-03T16:37:57.875194 - API call #453 at lat: 12.8505, lng: 77.2711, keyword: EV charging point
+2025-06-03T16:38:06.193232 - API call #456 at lat: 12.8505, lng: 78.2711, keyword: EV charging point
+2025-06-03T16:38:14.776420 - Finished data collection for Kerala
+2025-06-03T16:38:14.776420 - Total API calls: 458
+2025-06-03T16:38:14.776420 - Estimated API cost (USD): $14.66
+2025-06-03T16:38:14.776420 - Starting data collection for Madhya Pradesh
+2025-06-03T16:38:14.782985 - API call #459 at lat: 20.9734, lng: 76.6569, keyword: EV charging point
+2025-06-03T16:38:17.139315 - API call #460 at lat: 20.9734, lng: 77.6569, keyword: EV charging point
+2025-06-03T16:38:19.645773 - API call #461 at lat: 20.9734, lng: 78.6569, keyword: EV charging point
+2025-06-03T16:38:27.951342 - API call #464 at lat: 20.9734, lng: 79.6569, keyword: EV charging point
+2025-06-03T16:38:30.470627 - API call #465 at lat: 20.9734, lng: 80.6569, keyword: EV charging point
+2025-06-03T16:38:32.597484 - API call #466 at lat: 21.9734, lng: 76.6569, keyword: EV charging point
+2025-06-03T16:38:34.581392 - API call #467 at lat: 21.9734, lng: 77.6569, keyword: EV charging point
+2025-06-03T16:38:36.628505 - API call #468 at lat: 21.9734, lng: 78.6569, keyword: EV charging point
+2025-06-03T16:38:38.625577 - API call #469 at lat: 21.9734, lng: 79.6569, keyword: EV charging point
+2025-06-03T16:38:40.740709 - API call #470 at lat: 21.9734, lng: 80.6569, keyword: EV charging point
+2025-06-03T16:38:42.841998 - API call #471 at lat: 22.9734, lng: 76.6569, keyword: EV charging point
+2025-06-03T16:38:44.839050 - API call #472 at lat: 22.9734, lng: 77.6569, keyword: EV charging point
+2025-06-03T16:38:50.049792 - API call #474 at lat: 22.9734, lng: 78.6569, keyword: EV charging point
+2025-06-03T16:38:52.044920 - API call #475 at lat: 22.9734, lng: 79.6569, keyword: EV charging point
+2025-06-03T16:38:57.348650 - API call #477 at lat: 22.9734, lng: 80.6569, keyword: EV charging point
+2025-06-03T16:38:59.264330 - API call #478 at lat: 23.9734, lng: 76.6569, keyword: EV charging point
+2025-06-03T16:39:01.436688 - API call #479 at lat: 23.9734, lng: 77.6569, keyword: EV charging point
+2025-06-03T16:39:03.391939 - API call #480 at lat: 23.9734, lng: 78.6569, keyword: EV charging point
+2025-06-03T16:39:05.585161 - API call #481 at lat: 23.9734, lng: 79.6569, keyword: EV charging point
+2025-06-03T16:39:07.607907 - API call #482 at lat: 23.9734, lng: 80.6569, keyword: EV charging point
+2025-06-03T16:39:09.790514 - API call #483 at lat: 24.9734, lng: 76.6569, keyword: EV charging point
+2025-06-03T16:39:11.906820 - API call #484 at lat: 24.9734, lng: 77.6569, keyword: EV charging point
+2025-06-03T16:39:14.192016 - API call #485 at lat: 24.9734, lng: 78.6569, keyword: EV charging point
+2025-06-03T16:39:16.468046 - API call #486 at lat: 24.9734, lng: 79.6569, keyword: EV charging point
+2025-06-03T16:39:18.643835 - API call #487 at lat: 24.9734, lng: 80.6569, keyword: EV charging point
+2025-06-03T16:39:20.773090 - Finished data collection for Madhya Pradesh
+2025-06-03T16:39:20.773090 - Total API calls: 487
+2025-06-03T16:39:20.773090 - Estimated API cost (USD): $15.58
+2025-06-03T16:39:20.777112 - Starting data collection for Maharashtra
+2025-06-03T16:39:20.777112 - API call #488 at lat: 17.7515, lng: 73.7139, keyword: EV charging point
+2025-06-03T16:39:29.532658 - API call #491 at lat: 17.7515, lng: 74.7139, keyword: EV charging point
+2025-06-03T16:39:35.136583 - API call #493 at lat: 17.7515, lng: 75.7139, keyword: EV charging point
+2025-06-03T16:39:43.431517 - API call #496 at lat: 17.7515, lng: 76.7139, keyword: EV charging point
+2025-06-03T16:39:48.868146 - API call #498 at lat: 17.7515, lng: 77.7139, keyword: EV charging point
+2025-06-03T16:39:54.068087 - API call #500 at lat: 18.7515, lng: 73.7139, keyword: EV charging point
+2025-06-03T16:40:02.615065 - API call #503 at lat: 18.7515, lng: 74.7139, keyword: EV charging point
+2025-06-03T16:40:11.103770 - API call #506 at lat: 18.7515, lng: 75.7139, keyword: EV charging point
+2025-06-03T16:40:16.286067 - API call #508 at lat: 18.7515, lng: 76.7139, keyword: EV charging point
+2025-06-03T16:40:18.309714 - API call #509 at lat: 18.7515, lng: 77.7139, keyword: EV charging point
+2025-06-03T16:40:20.340306 - API call #510 at lat: 19.7515, lng: 73.7139, keyword: EV charging point
+2025-06-03T16:40:28.829011 - API call #513 at lat: 19.7515, lng: 74.7139, keyword: EV charging point
+2025-06-03T16:40:37.480657 - API call #516 at lat: 19.7515, lng: 75.7139, keyword: EV charging point
+2025-06-03T16:40:45.797443 - API call #519 at lat: 19.7515, lng: 76.7139, keyword: EV charging point
+2025-06-03T16:40:47.832369 - API call #520 at lat: 19.7515, lng: 77.7139, keyword: EV charging point
+2025-06-03T16:40:49.817145 - API call #521 at lat: 20.7515, lng: 73.7139, keyword: EV charging point
+2025-06-03T16:40:51.975224 - API call #522 at lat: 20.7515, lng: 74.7139, keyword: EV charging point
+2025-06-03T16:40:57.248460 - API call #524 at lat: 20.7515, lng: 75.7139, keyword: EV charging point
+2025-06-03T16:41:02.526522 - API call #526 at lat: 20.7515, lng: 76.7139, keyword: EV charging point
+2025-06-03T16:41:04.598298 - API call #527 at lat: 20.7515, lng: 77.7139, keyword: EV charging point
+2025-06-03T16:41:09.942181 - API call #529 at lat: 21.7515, lng: 73.7139, keyword: EV charging point
+2025-06-03T16:41:12.064809 - API call #530 at lat: 21.7515, lng: 74.7139, keyword: EV charging point
+2025-06-03T16:41:14.248450 - API call #531 at lat: 21.7515, lng: 75.7139, keyword: EV charging point
+2025-06-03T16:41:16.421628 - API call #532 at lat: 21.7515, lng: 76.7139, keyword: EV charging point
+2025-06-03T16:41:18.500910 - API call #533 at lat: 21.7515, lng: 77.7139, keyword: EV charging point
+2025-06-03T16:41:20.427881 - Finished data collection for Maharashtra
+2025-06-03T16:41:20.427881 - Total API calls: 533
+2025-06-03T16:41:20.427881 - Estimated API cost (USD): $17.06
+2025-06-03T16:41:20.427881 - Starting data collection for Manipur
+2025-06-03T16:41:20.427881 - API call #534 at lat: 22.6637, lng: 91.9063, keyword: EV charging point
+2025-06-03T16:41:22.446597 - API call #535 at lat: 22.6637, lng: 92.9063, keyword: EV charging point
+2025-06-03T16:41:24.407059 - API call #536 at lat: 22.6637, lng: 93.9063, keyword: EV charging point
+2025-06-03T16:41:26.317450 - API call #537 at lat: 22.6637, lng: 94.9063, keyword: EV charging point
+2025-06-03T16:41:28.517050 - API call #538 at lat: 22.6637, lng: 95.9063, keyword: EV charging point
+2025-06-03T16:41:30.423390 - API call #539 at lat: 23.6637, lng: 91.9063, keyword: EV charging point
+2025-06-03T16:41:32.327898 - API call #540 at lat: 23.6637, lng: 92.9063, keyword: EV charging point
+2025-06-03T16:41:34.272300 - API call #541 at lat: 23.6637, lng: 93.9063, keyword: EV charging point
+2025-06-03T16:41:36.323563 - API call #542 at lat: 23.6637, lng: 94.9063, keyword: EV charging point
+2025-06-03T16:41:38.266082 - API call #543 at lat: 23.6637, lng: 95.9063, keyword: EV charging point
+2025-06-03T16:41:40.317020 - API call #544 at lat: 24.6637, lng: 91.9063, keyword: EV charging point
+2025-06-03T16:41:42.263560 - API call #545 at lat: 24.6637, lng: 92.9063, keyword: EV charging point
+2025-06-03T16:41:45.388081 - API call #546 at lat: 24.6637, lng: 93.9063, keyword: EV charging point
+2025-06-03T16:41:47.262493 - API call #547 at lat: 24.6637, lng: 94.9063, keyword: EV charging point
+2025-06-03T16:41:49.288112 - API call #548 at lat: 24.6637, lng: 95.9063, keyword: EV charging point
+2025-06-03T16:41:51.121862 - API call #549 at lat: 25.6637, lng: 91.9063, keyword: EV charging point
+2025-06-03T16:41:53.088479 - API call #550 at lat: 25.6637, lng: 92.9063, keyword: EV charging point
+2025-06-03T16:41:55.249849 - API call #551 at lat: 25.6637, lng: 93.9063, keyword: EV charging point
+2025-06-03T16:41:57.327349 - API call #552 at lat: 25.6637, lng: 94.9063, keyword: EV charging point
+2025-06-03T16:41:59.369187 - API call #553 at lat: 25.6637, lng: 95.9063, keyword: EV charging point
+2025-06-03T16:42:01.313122 - API call #554 at lat: 26.6637, lng: 91.9063, keyword: EV charging point
+2025-06-03T16:42:03.388912 - API call #555 at lat: 26.6637, lng: 92.9063, keyword: EV charging point
+2025-06-03T16:42:05.565566 - API call #556 at lat: 26.6637, lng: 93.9063, keyword: EV charging point
+2025-06-03T16:42:07.655628 - API call #557 at lat: 26.6637, lng: 94.9063, keyword: EV charging point
+2025-06-03T16:42:09.504537 - API call #558 at lat: 26.6637, lng: 95.9063, keyword: EV charging point
+2025-06-03T16:42:12.022704 - Finished data collection for Manipur
+2025-06-03T16:42:12.022704 - Total API calls: 558
+2025-06-03T16:42:12.022704 - Estimated API cost (USD): $17.86
+2025-06-03T16:42:12.022704 - Starting data collection for Meghalaya
+2025-06-03T16:42:12.022704 - API call #559 at lat: 23.467, lng: 89.3662, keyword: EV charging point
+2025-06-03T16:42:14.518589 - API call #560 at lat: 23.467, lng: 90.3662, keyword: EV charging point
+2025-06-03T16:42:16.679660 - API call #561 at lat: 23.467, lng: 91.3662, keyword: EV charging point
+2025-06-03T16:42:18.647223 - API call #562 at lat: 23.467, lng: 92.3662, keyword: EV charging point
+2025-06-03T16:42:20.632867 - API call #563 at lat: 23.467, lng: 93.3662, keyword: EV charging point
+2025-06-03T16:42:22.472411 - API call #564 at lat: 24.467, lng: 89.3662, keyword: EV charging point
+2025-06-03T16:42:24.475757 - API call #565 at lat: 24.467, lng: 90.3662, keyword: EV charging point
+2025-06-03T16:42:27.394517 - API call #566 at lat: 24.467, lng: 91.3662, keyword: EV charging point
+2025-06-03T16:42:29.296112 - API call #567 at lat: 24.467, lng: 92.3662, keyword: EV charging point
+2025-06-03T16:42:31.417141 - API call #568 at lat: 24.467, lng: 93.3662, keyword: EV charging point
+2025-06-03T16:42:33.593829 - API call #569 at lat: 25.467, lng: 89.3662, keyword: EV charging point
+2025-06-03T16:42:35.583768 - API call #570 at lat: 25.467, lng: 90.3662, keyword: EV charging point
+2025-06-03T16:42:37.519423 - API call #571 at lat: 25.467, lng: 91.3662, keyword: EV charging point
+2025-06-03T16:42:39.463299 - API call #572 at lat: 25.467, lng: 92.3662, keyword: EV charging point
+2025-06-03T16:42:41.408625 - API call #573 at lat: 25.467, lng: 93.3662, keyword: EV charging point
+2025-06-03T16:42:43.631324 - API call #574 at lat: 26.467, lng: 89.3662, keyword: EV charging point
+2025-06-03T16:42:45.713190 - API call #575 at lat: 26.467, lng: 90.3662, keyword: EV charging point
+2025-06-03T16:42:48.654769 - API call #576 at lat: 26.467, lng: 91.3662, keyword: EV charging point
+2025-06-03T16:42:57.398906 - API call #579 at lat: 26.467, lng: 92.3662, keyword: EV charging point
+2025-06-03T16:42:59.507635 - API call #580 at lat: 26.467, lng: 93.3662, keyword: EV charging point
+2025-06-03T16:43:02.150879 - API call #581 at lat: 27.467, lng: 89.3662, keyword: EV charging point
+2025-06-03T16:43:04.282478 - API call #582 at lat: 27.467, lng: 90.3662, keyword: EV charging point
+2025-06-03T16:43:06.413502 - API call #583 at lat: 27.467, lng: 91.3662, keyword: EV charging point
+2025-06-03T16:43:08.384157 - API call #584 at lat: 27.467, lng: 92.3662, keyword: EV charging point
+2025-06-03T16:43:10.503539 - API call #585 at lat: 27.467, lng: 93.3662, keyword: EV charging point
+2025-06-03T16:43:12.384481 - Finished data collection for Meghalaya
+2025-06-03T16:43:12.384481 - Total API calls: 585
+2025-06-03T16:43:12.384481 - Estimated API cost (USD): $18.72
+2025-06-03T16:43:12.384481 - Starting data collection for Mizoram
+2025-06-03T16:43:12.384481 - API call #586 at lat: 21.1645, lng: 90.9376, keyword: EV charging point
+2025-06-03T16:43:15.513582 - API call #587 at lat: 21.1645, lng: 91.9376, keyword: EV charging point
+2025-06-03T16:43:17.387523 - API call #588 at lat: 21.1645, lng: 92.9376, keyword: EV charging point
+2025-06-03T16:43:19.364544 - API call #589 at lat: 21.1645, lng: 93.9376, keyword: EV charging point
+2025-06-03T16:43:21.369622 - API call #590 at lat: 21.1645, lng: 94.9376, keyword: EV charging point
+2025-06-03T16:43:23.249014 - API call #591 at lat: 22.1645, lng: 90.9376, keyword: EV charging point
+2025-06-03T16:43:25.229163 - API call #592 at lat: 22.1645, lng: 91.9376, keyword: EV charging point
+2025-06-03T16:43:27.361372 - API call #593 at lat: 22.1645, lng: 92.9376, keyword: EV charging point
+2025-06-03T16:43:29.187627 - API call #594 at lat: 22.1645, lng: 93.9376, keyword: EV charging point
+2025-06-03T16:43:30.944307 - API call #595 at lat: 22.1645, lng: 94.9376, keyword: EV charging point
+2025-06-03T16:43:32.770540 - API call #596 at lat: 23.1645, lng: 90.9376, keyword: EV charging point
+2025-06-03T16:43:35.137621 - API call #597 at lat: 23.1645, lng: 91.9376, keyword: EV charging point
+2025-06-03T16:43:37.101535 - API call #598 at lat: 23.1645, lng: 92.9376, keyword: EV charging point
+2025-06-03T16:43:39.093585 - API call #599 at lat: 23.1645, lng: 93.9376, keyword: EV charging point
+2025-06-03T16:43:40.911221 - API call #600 at lat: 23.1645, lng: 94.9376, keyword: EV charging point
+2025-06-03T16:43:42.727676 - API call #601 at lat: 24.1645, lng: 90.9376, keyword: EV charging point
+2025-06-03T16:43:44.683404 - API call #602 at lat: 24.1645, lng: 91.9376, keyword: EV charging point
+2025-06-03T16:43:46.611434 - API call #603 at lat: 24.1645, lng: 92.9376, keyword: EV charging point
+2025-06-03T16:43:48.655749 - API call #604 at lat: 24.1645, lng: 93.9376, keyword: EV charging point
+2025-06-03T16:43:50.632697 - API call #605 at lat: 24.1645, lng: 94.9376, keyword: EV charging point
+2025-06-03T16:43:52.512838 - API call #606 at lat: 25.1645, lng: 90.9376, keyword: EV charging point
+2025-06-03T16:43:54.394915 - API call #607 at lat: 25.1645, lng: 91.9376, keyword: EV charging point
+2025-06-03T16:43:56.353473 - API call #608 at lat: 25.1645, lng: 92.9376, keyword: EV charging point
+2025-06-03T16:43:58.513020 - API call #609 at lat: 25.1645, lng: 93.9376, keyword: EV charging point
+2025-06-03T16:44:00.573542 - API call #610 at lat: 25.1645, lng: 94.9376, keyword: EV charging point
+2025-06-03T16:44:02.373457 - Finished data collection for Mizoram
+2025-06-03T16:44:02.373457 - Total API calls: 610
+2025-06-03T16:44:02.373457 - Estimated API cost (USD): $19.52
+2025-06-03T16:44:02.373457 - Starting data collection for Nagaland
+2025-06-03T16:44:02.373457 - API call #611 at lat: 24.1584, lng: 92.5624, keyword: EV charging point
+2025-06-03T16:44:04.345438 - API call #612 at lat: 24.1584, lng: 93.5624, keyword: EV charging point
+2025-06-03T16:44:06.212852 - API call #613 at lat: 24.1584, lng: 94.5624, keyword: EV charging point
+2025-06-03T16:44:08.036071 - API call #614 at lat: 24.1584, lng: 95.5624, keyword: EV charging point
+2025-06-03T16:44:10.099316 - API call #615 at lat: 24.1584, lng: 96.5624, keyword: EV charging point
+2025-06-03T16:44:11.919397 - API call #616 at lat: 25.1584, lng: 92.5624, keyword: EV charging point
+2025-06-03T16:44:14.085284 - API call #617 at lat: 25.1584, lng: 93.5624, keyword: EV charging point
+2025-06-03T16:44:16.001616 - API call #618 at lat: 25.1584, lng: 94.5624, keyword: EV charging point
+2025-06-03T16:44:17.801323 - API call #619 at lat: 25.1584, lng: 95.5624, keyword: EV charging point
+2025-06-03T16:44:19.550049 - API call #620 at lat: 25.1584, lng: 96.5624, keyword: EV charging point
+2025-06-03T16:44:21.694528 - API call #621 at lat: 26.1584, lng: 92.5624, keyword: EV charging point
+2025-06-03T16:44:23.990825 - API call #622 at lat: 26.1584, lng: 93.5624, keyword: EV charging point
+2025-06-03T16:44:25.907265 - API call #623 at lat: 26.1584, lng: 94.5624, keyword: EV charging point
+2025-06-03T16:44:27.768025 - API call #624 at lat: 26.1584, lng: 95.5624, keyword: EV charging point
+2025-06-03T16:44:29.758528 - API call #625 at lat: 26.1584, lng: 96.5624, keyword: EV charging point
+2025-06-03T16:44:31.574925 - API call #626 at lat: 27.1584, lng: 92.5624, keyword: EV charging point
+2025-06-03T16:44:33.454518 - API call #627 at lat: 27.1584, lng: 93.5624, keyword: EV charging point
+2025-06-03T16:44:35.565107 - API call #628 at lat: 27.1584, lng: 94.5624, keyword: EV charging point
+2025-06-03T16:44:37.615348 - API call #629 at lat: 27.1584, lng: 95.5624, keyword: EV charging point
+2025-06-03T16:44:39.944022 - API call #630 at lat: 27.1584, lng: 96.5624, keyword: EV charging point
+2025-06-03T16:44:41.961308 - API call #631 at lat: 28.1584, lng: 92.5624, keyword: EV charging point
+2025-06-03T16:44:43.976212 - API call #632 at lat: 28.1584, lng: 93.5624, keyword: EV charging point
+2025-06-03T16:44:45.937914 - API call #633 at lat: 28.1584, lng: 94.5624, keyword: EV charging point
+2025-06-03T16:44:47.883944 - API call #634 at lat: 28.1584, lng: 95.5624, keyword: EV charging point
+2025-06-03T16:44:49.743636 - API call #635 at lat: 28.1584, lng: 96.5624, keyword: EV charging point
+2025-06-03T16:44:51.748780 - Finished data collection for Nagaland
+2025-06-03T16:44:51.748780 - Total API calls: 635
+2025-06-03T16:44:51.748780 - Estimated API cost (USD): $20.32
+2025-06-03T16:44:51.748780 - Starting data collection for Odisha
+2025-06-03T16:44:51.748780 - API call #636 at lat: 18.9517, lng: 83.0985, keyword: EV charging point
+2025-06-03T16:44:53.747472 - API call #637 at lat: 18.9517, lng: 84.0985, keyword: EV charging point
+2025-06-03T16:44:55.980962 - API call #638 at lat: 18.9517, lng: 85.0985, keyword: EV charging point
+2025-06-03T16:44:58.177124 - API call #639 at lat: 18.9517, lng: 86.0985, keyword: EV charging point
+2025-06-03T16:45:00.376257 - API call #640 at lat: 18.9517, lng: 87.0985, keyword: EV charging point
+2025-06-03T16:45:02.648223 - API call #641 at lat: 19.9517, lng: 83.0985, keyword: EV charging point
+2025-06-03T16:45:04.729153 - API call #642 at lat: 19.9517, lng: 84.0985, keyword: EV charging point
+2025-06-03T16:45:06.684232 - API call #643 at lat: 19.9517, lng: 85.0985, keyword: EV charging point
+2025-06-03T16:45:08.687839 - API call #644 at lat: 19.9517, lng: 86.0985, keyword: EV charging point
+2025-06-03T16:45:17.024395 - API call #647 at lat: 19.9517, lng: 87.0985, keyword: EV charging point
+2025-06-03T16:45:19.128277 - API call #648 at lat: 20.9517, lng: 83.0985, keyword: EV charging point
+2025-06-03T16:45:21.086137 - API call #649 at lat: 20.9517, lng: 84.0985, keyword: EV charging point
+2025-06-03T16:45:23.170035 - API call #650 at lat: 20.9517, lng: 85.0985, keyword: EV charging point
+2025-06-03T16:45:25.280594 - API call #651 at lat: 20.9517, lng: 86.0985, keyword: EV charging point
+2025-06-03T16:45:27.415602 - API call #652 at lat: 20.9517, lng: 87.0985, keyword: EV charging point
+2025-06-03T16:45:29.448900 - API call #653 at lat: 21.9517, lng: 83.0985, keyword: EV charging point
+2025-06-03T16:45:31.419765 - API call #654 at lat: 21.9517, lng: 84.0985, keyword: EV charging point
+2025-06-03T16:45:33.494200 - API call #655 at lat: 21.9517, lng: 85.0985, keyword: EV charging point
+2025-06-03T16:45:35.738624 - API call #656 at lat: 21.9517, lng: 86.0985, keyword: EV charging point
+2025-06-03T16:45:37.686200 - API call #657 at lat: 21.9517, lng: 87.0985, keyword: EV charging point
+2025-06-03T16:45:39.690141 - API call #658 at lat: 22.9517, lng: 83.0985, keyword: EV charging point
+2025-06-03T16:45:41.602452 - API call #659 at lat: 22.9517, lng: 84.0985, keyword: EV charging point
+2025-06-03T16:45:43.483837 - API call #660 at lat: 22.9517, lng: 85.0985, keyword: EV charging point
+2025-06-03T16:45:48.748360 - API call #662 at lat: 22.9517, lng: 86.0985, keyword: EV charging point
+2025-06-03T16:45:50.788963 - API call #663 at lat: 22.9517, lng: 87.0985, keyword: EV charging point
+2025-06-03T16:45:52.874989 - Finished data collection for Odisha
+2025-06-03T16:45:52.874989 - Total API calls: 663
+2025-06-03T16:45:52.874989 - Estimated API cost (USD): $21.22
+2025-06-03T16:45:52.874989 - Starting data collection for Punjab
+2025-06-03T16:45:52.874989 - API call #664 at lat: 29.1471, lng: 73.3412, keyword: EV charging point
+2025-06-03T16:45:55.730228 - API call #665 at lat: 29.1471, lng: 74.3412, keyword: EV charging point
+2025-06-03T16:45:57.755511 - API call #666 at lat: 29.1471, lng: 75.3412, keyword: EV charging point
+2025-06-03T16:46:03.662601 - API call #668 at lat: 29.1471, lng: 76.3412, keyword: EV charging point
+2025-06-03T16:46:12.265396 - API call #671 at lat: 29.1471, lng: 77.3412, keyword: EV charging point
+2025-06-03T16:46:21.130311 - API call #674 at lat: 30.1471, lng: 73.3412, keyword: EV charging point
+2025-06-03T16:46:23.204944 - API call #675 at lat: 30.1471, lng: 74.3412, keyword: EV charging point
+2025-06-03T16:46:25.415418 - API call #676 at lat: 30.1471, lng: 75.3412, keyword: EV charging point
+2025-06-03T16:46:27.506067 - API call #677 at lat: 30.1471, lng: 76.3412, keyword: EV charging point
+2025-06-03T16:46:35.572978 - API call #680 at lat: 30.1471, lng: 77.3412, keyword: EV charging point
+2025-06-03T16:46:44.659486 - API call #683 at lat: 31.1471, lng: 73.3412, keyword: EV charging point
+2025-06-03T16:46:46.631798 - API call #684 at lat: 31.1471, lng: 74.3412, keyword: EV charging point
+2025-06-03T16:46:48.753948 - API call #685 at lat: 31.1471, lng: 75.3412, keyword: EV charging point
+2025-06-03T16:46:54.133280 - API call #687 at lat: 31.1471, lng: 76.3412, keyword: EV charging point
+2025-06-03T16:47:02.649983 - API call #690 at lat: 31.1471, lng: 77.3412, keyword: EV charging point
+2025-06-03T16:47:11.109934 - API call #693 at lat: 32.147099999999995, lng: 73.3412, keyword: EV charging point
+2025-06-03T16:47:13.166875 - API call #694 at lat: 32.147099999999995, lng: 74.3412, keyword: EV charging point
+2025-06-03T16:47:15.237194 - API call #695 at lat: 32.147099999999995, lng: 75.3412, keyword: EV charging point
+2025-06-03T16:47:17.324018 - API call #696 at lat: 32.147099999999995, lng: 76.3412, keyword: EV charging point
+2025-06-03T16:47:22.592830 - API call #698 at lat: 32.147099999999995, lng: 77.3412, keyword: EV charging point
+2025-06-03T16:47:24.997212 - API call #699 at lat: 33.147099999999995, lng: 73.3412, keyword: EV charging point
+2025-06-03T16:47:26.997010 - API call #700 at lat: 33.147099999999995, lng: 74.3412, keyword: EV charging point
+2025-06-03T16:47:28.982747 - API call #701 at lat: 33.147099999999995, lng: 75.3412, keyword: EV charging point
+2025-06-03T16:47:34.541342 - API call #703 at lat: 33.147099999999995, lng: 76.3412, keyword: EV charging point
+2025-06-03T16:47:36.785630 - API call #704 at lat: 33.147099999999995, lng: 77.3412, keyword: EV charging point
+2025-06-03T16:47:38.865152 - Finished data collection for Punjab
+2025-06-03T16:47:38.865152 - Total API calls: 704
+2025-06-03T16:47:38.865152 - Estimated API cost (USD): $22.53
+2025-06-03T16:47:38.865152 - Starting data collection for Rajasthan
+2025-06-03T16:47:38.865152 - API call #705 at lat: 25.0238, lng: 72.2179, keyword: EV charging point
+2025-06-03T16:47:40.859223 - API call #706 at lat: 25.0238, lng: 73.2179, keyword: EV charging point
+2025-06-03T16:47:49.269998 - API call #709 at lat: 25.0238, lng: 74.2179, keyword: EV charging point
+2025-06-03T16:47:59.308555 - API call #712 at lat: 25.0238, lng: 75.2179, keyword: EV charging point
+2025-06-03T16:48:01.355819 - API call #713 at lat: 25.0238, lng: 76.2179, keyword: EV charging point
+2025-06-03T16:48:06.658268 - API call #715 at lat: 26.0238, lng: 72.2179, keyword: EV charging point
+2025-06-03T16:48:08.668419 - API call #716 at lat: 26.0238, lng: 73.2179, keyword: EV charging point
+2025-06-03T16:48:16.907942 - API call #719 at lat: 26.0238, lng: 74.2179, keyword: EV charging point
+2025-06-03T16:48:22.257266 - API call #721 at lat: 26.0238, lng: 75.2179, keyword: EV charging point
+2025-06-03T16:48:24.531834 - API call #722 at lat: 26.0238, lng: 76.2179, keyword: EV charging point
+2025-06-03T16:48:26.491249 - API call #723 at lat: 27.0238, lng: 72.2179, keyword: EV charging point
+2025-06-03T16:48:28.528168 - API call #724 at lat: 27.0238, lng: 73.2179, keyword: EV charging point
+2025-06-03T16:48:30.710883 - API call #725 at lat: 27.0238, lng: 74.2179, keyword: EV charging point
+2025-06-03T16:48:32.643518 - API call #726 at lat: 27.0238, lng: 75.2179, keyword: EV charging point
+2025-06-03T16:48:41.207622 - API call #729 at lat: 27.0238, lng: 76.2179, keyword: EV charging point
+2025-06-03T16:48:49.784105 - API call #732 at lat: 28.0238, lng: 72.2179, keyword: EV charging point
+2025-06-03T16:48:51.689054 - API call #733 at lat: 28.0238, lng: 73.2179, keyword: EV charging point
+2025-06-03T16:48:57.090632 - API call #735 at lat: 28.0238, lng: 74.2179, keyword: EV charging point
+2025-06-03T16:48:59.517325 - API call #736 at lat: 28.0238, lng: 75.2179, keyword: EV charging point
+2025-06-03T16:49:04.754841 - API call #738 at lat: 28.0238, lng: 76.2179, keyword: EV charging point
+2025-06-03T16:49:13.482645 - API call #741 at lat: 29.0238, lng: 72.2179, keyword: EV charging point
+2025-06-03T16:49:15.508830 - API call #742 at lat: 29.0238, lng: 73.2179, keyword: EV charging point
+2025-06-03T16:49:17.706342 - API call #743 at lat: 29.0238, lng: 74.2179, keyword: EV charging point
+2025-06-03T16:49:19.870985 - API call #744 at lat: 29.0238, lng: 75.2179, keyword: EV charging point
+2025-06-03T16:49:21.877703 - API call #745 at lat: 29.0238, lng: 76.2179, keyword: EV charging point
+2025-06-03T16:49:30.443226 - Finished data collection for Rajasthan
+2025-06-03T16:49:30.443226 - Total API calls: 747
+2025-06-03T16:49:30.443226 - Estimated API cost (USD): $23.9
+2025-06-03T16:49:30.443226 - Starting data collection for Sikkim
+2025-06-03T16:49:30.443226 - API call #748 at lat: 25.533, lng: 86.5122, keyword: EV charging point
+2025-06-03T16:49:32.754756 - API call #749 at lat: 25.533, lng: 87.5122, keyword: EV charging point
+2025-06-03T16:49:34.951861 - API call #750 at lat: 25.533, lng: 88.5122, keyword: EV charging point
+2025-06-03T16:49:36.923846 - API call #751 at lat: 25.533, lng: 89.5122, keyword: EV charging point
+2025-06-03T16:49:39.103052 - API call #752 at lat: 25.533, lng: 90.5122, keyword: EV charging point
+2025-06-03T16:49:41.082595 - API call #753 at lat: 26.533, lng: 86.5122, keyword: EV charging point
+2025-06-03T16:49:43.304034 - API call #754 at lat: 26.533, lng: 87.5122, keyword: EV charging point
+2025-06-03T16:49:48.421945 - API call #756 at lat: 26.533, lng: 88.5122, keyword: EV charging point
+2025-06-03T16:49:53.706378 - API call #758 at lat: 26.533, lng: 89.5122, keyword: EV charging point
+2025-06-03T16:49:55.771787 - API call #759 at lat: 26.533, lng: 90.5122, keyword: EV charging point
+2025-06-03T16:49:57.854228 - API call #760 at lat: 27.533, lng: 86.5122, keyword: EV charging point
+2025-06-03T16:50:00.043108 - API call #761 at lat: 27.533, lng: 87.5122, keyword: EV charging point
+2025-06-03T16:50:02.003051 - API call #762 at lat: 27.533, lng: 88.5122, keyword: EV charging point
+2025-06-03T16:50:03.961704 - API call #763 at lat: 27.533, lng: 89.5122, keyword: EV charging point
+2025-06-03T16:50:06.419292 - API call #764 at lat: 27.533, lng: 90.5122, keyword: EV charging point
+2025-06-03T16:50:08.369704 - API call #765 at lat: 28.533, lng: 86.5122, keyword: EV charging point
+2025-06-03T16:50:10.486910 - API call #766 at lat: 28.533, lng: 87.5122, keyword: EV charging point
+2025-06-03T16:50:12.524094 - API call #767 at lat: 28.533, lng: 88.5122, keyword: EV charging point
+2025-06-03T16:50:14.635540 - API call #768 at lat: 28.533, lng: 89.5122, keyword: EV charging point
+2025-06-03T16:50:16.615285 - API call #769 at lat: 28.533, lng: 90.5122, keyword: EV charging point
+2025-06-03T16:50:18.505240 - API call #770 at lat: 29.533, lng: 86.5122, keyword: EV charging point
+2025-06-03T16:50:20.319217 - API call #771 at lat: 29.533, lng: 87.5122, keyword: EV charging point
+2025-06-03T16:50:22.142648 - API call #772 at lat: 29.533, lng: 88.5122, keyword: EV charging point
+2025-06-03T16:50:23.987009 - API call #773 at lat: 29.533, lng: 89.5122, keyword: EV charging point
+2025-06-03T16:50:26.036584 - API call #774 at lat: 29.533, lng: 90.5122, keyword: EV charging point
+2025-06-03T16:50:27.912709 - Finished data collection for Sikkim
+2025-06-03T16:50:27.912709 - Total API calls: 774
+2025-06-03T16:50:27.912709 - Estimated API cost (USD): $24.77
+2025-06-03T16:50:27.917776 - Starting data collection for Tamil Nadu
+2025-06-03T16:50:27.917776 - API call #775 at lat: 9.1271, lng: 76.6569, keyword: EV charging point
+2025-06-03T16:50:36.307402 - API call #778 at lat: 9.1271, lng: 77.6569, keyword: EV charging point
+2025-06-03T16:50:41.609165 - API call #780 at lat: 9.1271, lng: 78.6569, keyword: EV charging point
+2025-06-03T16:50:43.744848 - API call #781 at lat: 9.1271, lng: 79.6569, keyword: EV charging point
+2025-06-03T16:50:45.794388 - API call #782 at lat: 9.1271, lng: 80.6569, keyword: EV charging point
+2025-06-03T16:50:47.873322 - API call #783 at lat: 10.1271, lng: 76.6569, keyword: EV charging point
+2025-06-03T16:50:56.516645 - API call #786 at lat: 10.1271, lng: 77.6569, keyword: EV charging point
+2025-06-03T16:51:04.660633 - API call #789 at lat: 10.1271, lng: 78.6569, keyword: EV charging point
+2025-06-03T16:51:09.955796 - API call #791 at lat: 10.1271, lng: 79.6569, keyword: EV charging point
+2025-06-03T16:51:11.997503 - API call #792 at lat: 10.1271, lng: 80.6569, keyword: EV charging point
+2025-06-03T16:51:14.143905 - API call #793 at lat: 11.1271, lng: 76.6569, keyword: EV charging point
+2025-06-03T16:51:22.630319 - API call #796 at lat: 11.1271, lng: 77.6569, keyword: EV charging point
+2025-06-03T16:51:31.107569 - API call #799 at lat: 11.1271, lng: 78.6569, keyword: EV charging point
+2025-06-03T16:51:39.741980 - API call #802 at lat: 11.1271, lng: 79.6569, keyword: EV charging point
+2025-06-03T16:51:41.861119 - API call #803 at lat: 11.1271, lng: 80.6569, keyword: EV charging point
+2025-06-03T16:51:43.978505 - API call #804 at lat: 12.1271, lng: 76.6569, keyword: EV charging point
+2025-06-03T16:51:53.865743 - API call #807 at lat: 12.1271, lng: 77.6569, keyword: EV charging point
+2025-06-03T16:51:58.900159 - API call #809 at lat: 12.1271, lng: 78.6569, keyword: EV charging point
+2025-06-03T16:52:04.077562 - API call #811 at lat: 12.1271, lng: 79.6569, keyword: EV charging point
+2025-06-03T16:52:12.260536 - API call #814 at lat: 12.1271, lng: 80.6569, keyword: EV charging point
+2025-06-03T16:52:14.516808 - API call #815 at lat: 13.1271, lng: 76.6569, keyword: EV charging point
+2025-06-03T16:52:23.223371 - API call #818 at lat: 13.1271, lng: 77.6569, keyword: EV charging point
+2025-06-03T16:52:32.047797 - API call #821 at lat: 13.1271, lng: 78.6569, keyword: EV charging point
+2025-06-03T16:52:40.569507 - API call #824 at lat: 13.1271, lng: 79.6569, keyword: EV charging point
+2025-06-03T16:52:49.082974 - API call #827 at lat: 13.1271, lng: 80.6569, keyword: EV charging point
+2025-06-03T16:52:58.130079 - Finished data collection for Tamil Nadu
+2025-06-03T16:52:58.130079 - Total API calls: 829
+2025-06-03T16:52:58.130079 - Estimated API cost (USD): $26.53
+2025-06-03T16:52:58.135168 - Starting data collection for Telangana
+2025-06-03T16:52:58.135168 - API call #830 at lat: 16.1124, lng: 77.0193, keyword: EV charging point
+2025-06-03T16:53:00.451770 - API call #831 at lat: 16.1124, lng: 78.0193, keyword: EV charging point
+2025-06-03T16:53:06.262187 - API call #833 at lat: 16.1124, lng: 79.0193, keyword: EV charging point
+2025-06-03T16:53:08.177447 - API call #834 at lat: 16.1124, lng: 80.0193, keyword: EV charging point
+2025-06-03T16:53:13.956960 - API call #836 at lat: 16.1124, lng: 81.0193, keyword: EV charging point
+2025-06-03T16:53:22.492544 - API call #839 at lat: 17.1124, lng: 77.0193, keyword: EV charging point
+2025-06-03T16:53:24.974269 - API call #840 at lat: 17.1124, lng: 78.0193, keyword: EV charging point
+2025-06-03T16:53:33.960339 - API call #843 at lat: 17.1124, lng: 79.0193, keyword: EV charging point
+2025-06-03T16:53:42.419901 - API call #846 at lat: 17.1124, lng: 80.0193, keyword: EV charging point
+2025-06-03T16:53:48.119968 - API call #848 at lat: 17.1124, lng: 81.0193, keyword: EV charging point
+2025-06-03T16:53:50.145925 - API call #849 at lat: 18.1124, lng: 77.0193, keyword: EV charging point
+2025-06-03T16:53:55.785578 - API call #851 at lat: 18.1124, lng: 78.0193, keyword: EV charging point
+2025-06-03T16:53:57.921805 - API call #852 at lat: 18.1124, lng: 79.0193, keyword: EV charging point
+2025-06-03T16:54:03.383337 - API call #854 at lat: 18.1124, lng: 80.0193, keyword: EV charging point
+2025-06-03T16:54:05.384007 - API call #855 at lat: 18.1124, lng: 81.0193, keyword: EV charging point
+2025-06-03T16:54:07.356077 - API call #856 at lat: 19.1124, lng: 77.0193, keyword: EV charging point
+2025-06-03T16:54:09.352164 - API call #857 at lat: 19.1124, lng: 78.0193, keyword: EV charging point
+2025-06-03T16:54:11.447041 - API call #858 at lat: 19.1124, lng: 79.0193, keyword: EV charging point
+2025-06-03T16:54:13.657081 - API call #859 at lat: 19.1124, lng: 80.0193, keyword: EV charging point
+2025-06-03T16:54:15.744876 - API call #860 at lat: 19.1124, lng: 81.0193, keyword: EV charging point
+2025-06-03T16:54:17.969402 - API call #861 at lat: 20.1124, lng: 77.0193, keyword: EV charging point
+2025-06-03T16:54:19.977050 - API call #862 at lat: 20.1124, lng: 78.0193, keyword: EV charging point
+2025-06-03T16:54:22.045704 - API call #863 at lat: 20.1124, lng: 79.0193, keyword: EV charging point
+2025-06-03T16:54:24.253931 - API call #864 at lat: 20.1124, lng: 80.0193, keyword: EV charging point
+2025-06-03T16:54:26.179429 - API call #865 at lat: 20.1124, lng: 81.0193, keyword: EV charging point
+2025-06-03T16:54:28.117266 - Finished data collection for Telangana
+2025-06-03T16:54:28.118337 - Total API calls: 865
+2025-06-03T16:54:28.118337 - Estimated API cost (USD): $27.68
+2025-06-03T16:54:28.118337 - Starting data collection for Tripura
+2025-06-03T16:54:28.118337 - API call #866 at lat: 21.9408, lng: 89.9882, keyword: EV charging point
+2025-06-03T16:54:30.093847 - API call #867 at lat: 21.9408, lng: 90.9882, keyword: EV charging point
+2025-06-03T16:54:32.019879 - API call #868 at lat: 21.9408, lng: 91.9882, keyword: EV charging point
+2025-06-03T16:54:33.912131 - API call #869 at lat: 21.9408, lng: 92.9882, keyword: EV charging point
+2025-06-03T16:54:35.782723 - API call #870 at lat: 21.9408, lng: 93.9882, keyword: EV charging point
+2025-06-03T16:54:37.666857 - API call #871 at lat: 22.9408, lng: 89.9882, keyword: EV charging point
+2025-06-03T16:54:39.800808 - API call #872 at lat: 22.9408, lng: 90.9882, keyword: EV charging point
+2025-06-03T16:54:41.811250 - API call #873 at lat: 22.9408, lng: 91.9882, keyword: EV charging point
+2025-06-03T16:54:43.928692 - API call #874 at lat: 22.9408, lng: 92.9882, keyword: EV charging point
+2025-06-03T16:54:46.015382 - API call #875 at lat: 22.9408, lng: 93.9882, keyword: EV charging point
+2025-06-03T16:54:47.855609 - API call #876 at lat: 23.9408, lng: 89.9882, keyword: EV charging point
+2025-06-03T16:54:51.088227 - API call #877 at lat: 23.9408, lng: 90.9882, keyword: EV charging point
+2025-06-03T16:54:53.050158 - API call #878 at lat: 23.9408, lng: 91.9882, keyword: EV charging point
+2025-06-03T16:54:55.216089 - API call #879 at lat: 23.9408, lng: 92.9882, keyword: EV charging point
+2025-06-03T16:54:57.236713 - API call #880 at lat: 23.9408, lng: 93.9882, keyword: EV charging point
+2025-06-03T16:54:59.260841 - API call #881 at lat: 24.9408, lng: 89.9882, keyword: EV charging point
+2025-06-03T16:55:01.477909 - API call #882 at lat: 24.9408, lng: 90.9882, keyword: EV charging point
+2025-06-03T16:55:03.601155 - API call #883 at lat: 24.9408, lng: 91.9882, keyword: EV charging point
+2025-06-03T16:55:05.540621 - API call #884 at lat: 24.9408, lng: 92.9882, keyword: EV charging point
+2025-06-03T16:55:08.553171 - API call #885 at lat: 24.9408, lng: 93.9882, keyword: EV charging point
+2025-06-03T16:55:10.415661 - API call #886 at lat: 25.9408, lng: 89.9882, keyword: EV charging point
+2025-06-03T16:55:12.467998 - API call #887 at lat: 25.9408, lng: 90.9882, keyword: EV charging point
+2025-06-03T16:55:14.518910 - API call #888 at lat: 25.9408, lng: 91.9882, keyword: EV charging point
+2025-06-03T16:55:23.566283 - API call #891 at lat: 25.9408, lng: 92.9882, keyword: EV charging point
+2025-06-03T16:55:25.907697 - API call #892 at lat: 25.9408, lng: 93.9882, keyword: EV charging point
+2025-06-03T16:55:27.935552 - Finished data collection for Tripura
+2025-06-03T16:55:27.935552 - Total API calls: 892
+2025-06-03T16:55:27.935552 - Estimated API cost (USD): $28.54
+2025-06-03T16:55:27.935552 - Starting data collection for Uttar Pradesh
+2025-06-03T16:55:27.935552 - API call #893 at lat: 24.8467, lng: 78.9462, keyword: EV charging point
+2025-06-03T16:55:29.914701 - API call #894 at lat: 24.8467, lng: 79.9462, keyword: EV charging point
+2025-06-03T16:55:32.510301 - API call #895 at lat: 24.8467, lng: 80.9462, keyword: EV charging point
+2025-06-03T16:55:36.201445 - API call #896 at lat: 24.8467, lng: 81.9462, keyword: EV charging point
+2025-06-03T16:55:38.240503 - API call #897 at lat: 24.8467, lng: 82.9462, keyword: EV charging point
+2025-06-03T16:55:40.404639 - API call #898 at lat: 25.8467, lng: 78.9462, keyword: EV charging point
+2025-06-03T16:55:42.559176 - API call #899 at lat: 25.8467, lng: 79.9462, keyword: EV charging point
+2025-06-03T16:55:44.602537 - API call #900 at lat: 25.8467, lng: 80.9462, keyword: EV charging point
+2025-06-03T16:55:46.683136 - API call #901 at lat: 25.8467, lng: 81.9462, keyword: EV charging point
+2025-06-03T16:55:52.554846 - API call #903 at lat: 25.8467, lng: 82.9462, keyword: EV charging point
+2025-06-03T16:55:54.573908 - API call #904 at lat: 26.8467, lng: 78.9462, keyword: EV charging point
+2025-06-03T16:55:56.555211 - API call #905 at lat: 26.8467, lng: 79.9462, keyword: EV charging point
+2025-06-03T16:56:05.101147 - API call #908 at lat: 26.8467, lng: 80.9462, keyword: EV charging point
+2025-06-03T16:56:13.632688 - API call #911 at lat: 26.8467, lng: 81.9462, keyword: EV charging point
+2025-06-03T16:56:19.203972 - API call #913 at lat: 26.8467, lng: 82.9462, keyword: EV charging point
+2025-06-03T16:56:21.484155 - API call #914 at lat: 27.8467, lng: 78.9462, keyword: EV charging point
+2025-06-03T16:56:23.532706 - API call #915 at lat: 27.8467, lng: 79.9462, keyword: EV charging point
+2025-06-03T16:56:25.475710 - API call #916 at lat: 27.8467, lng: 80.9462, keyword: EV charging point
+2025-06-03T16:56:27.833190 - API call #917 at lat: 27.8467, lng: 81.9462, keyword: EV charging point
+2025-06-03T16:56:29.834518 - API call #918 at lat: 27.8467, lng: 82.9462, keyword: EV charging point
+2025-06-03T16:56:31.846114 - API call #919 at lat: 28.8467, lng: 78.9462, keyword: EV charging point
+2025-06-03T16:56:36.939161 - API call #921 at lat: 28.8467, lng: 79.9462, keyword: EV charging point
+2025-06-03T16:56:42.343124 - API call #923 at lat: 28.8467, lng: 80.9462, keyword: EV charging point
+2025-06-03T16:56:44.348179 - API call #924 at lat: 28.8467, lng: 81.9462, keyword: EV charging point
+2025-06-03T16:56:46.489672 - API call #925 at lat: 28.8467, lng: 82.9462, keyword: EV charging point
+2025-06-03T16:56:48.650758 - Finished data collection for Uttar Pradesh
+2025-06-03T16:56:48.650758 - Total API calls: 925
+2025-06-03T16:56:48.650758 - Estimated API cost (USD): $29.6
+2025-06-03T16:56:48.650758 - Starting data collection for Uttarakhand
+2025-06-03T16:56:48.650758 - API call #926 at lat: 28.0668, lng: 77.0193, keyword: EV charging point
+2025-06-03T16:56:57.255946 - API call #929 at lat: 28.0668, lng: 78.0193, keyword: EV charging point
+2025-06-03T16:57:02.776569 - API call #931 at lat: 28.0668, lng: 79.0193, keyword: EV charging point
+2025-06-03T16:57:04.801420 - API call #932 at lat: 28.0668, lng: 80.0193, keyword: EV charging point
+2025-06-03T16:57:06.957720 - API call #933 at lat: 28.0668, lng: 81.0193, keyword: EV charging point
+2025-06-03T16:57:08.991769 - API call #934 at lat: 29.0668, lng: 77.0193, keyword: EV charging point
+2025-06-03T16:57:17.419451 - API call #937 at lat: 29.0668, lng: 78.0193, keyword: EV charging point
+2025-06-03T16:57:25.776220 - API call #940 at lat: 29.0668, lng: 79.0193, keyword: EV charging point
+2025-06-03T16:57:34.488655 - API call #943 at lat: 29.0668, lng: 80.0193, keyword: EV charging point
+2025-06-03T16:57:36.503141 - API call #944 at lat: 29.0668, lng: 81.0193, keyword: EV charging point
+2025-06-03T16:57:38.648486 - API call #945 at lat: 30.0668, lng: 77.0193, keyword: EV charging point
+2025-06-03T16:57:46.949513 - API call #948 at lat: 30.0668, lng: 78.0193, keyword: EV charging point
+2025-06-03T16:57:57.408829 - API call #951 at lat: 30.0668, lng: 79.0193, keyword: EV charging point
+2025-06-03T16:57:59.330348 - API call #952 at lat: 30.0668, lng: 80.0193, keyword: EV charging point
+2025-06-03T16:58:01.319840 - API call #953 at lat: 30.0668, lng: 81.0193, keyword: EV charging point
+2025-06-03T16:58:03.261768 - API call #954 at lat: 31.0668, lng: 77.0193, keyword: EV charging point
+2025-06-03T16:58:11.572256 - API call #957 at lat: 31.0668, lng: 78.0193, keyword: EV charging point
+2025-06-03T16:58:13.495764 - API call #958 at lat: 31.0668, lng: 79.0193, keyword: EV charging point
+2025-06-03T16:58:15.566696 - API call #959 at lat: 31.0668, lng: 80.0193, keyword: EV charging point
+2025-06-03T16:58:17.683952 - API call #960 at lat: 31.0668, lng: 81.0193, keyword: EV charging point
+2025-06-03T16:58:19.683314 - API call #961 at lat: 32.0668, lng: 77.0193, keyword: EV charging point
+2025-06-03T16:58:24.884409 - API call #963 at lat: 32.0668, lng: 78.0193, keyword: EV charging point
+2025-06-03T16:58:27.122134 - API call #964 at lat: 32.0668, lng: 79.0193, keyword: EV charging point
+2025-06-03T16:58:29.339231 - API call #965 at lat: 32.0668, lng: 80.0193, keyword: EV charging point
+2025-06-03T16:58:31.136987 - API call #966 at lat: 32.0668, lng: 81.0193, keyword: EV charging point
+2025-06-03T16:58:32.854241 - Finished data collection for Uttarakhand
+2025-06-03T16:58:32.855346 - Total API calls: 966
+2025-06-03T16:58:32.855906 - Estimated API cost (USD): $30.91
+2025-06-03T16:58:32.856974 - Starting data collection for West Bengal
+2025-06-03T16:58:32.857534 - API call #967 at lat: 20.9868, lng: 85.855, keyword: EV charging point
+2025-06-03T16:58:34.955252 - API call #968 at lat: 20.9868, lng: 86.855, keyword: EV charging point
+2025-06-03T16:58:37.273085 - API call #969 at lat: 20.9868, lng: 87.855, keyword: EV charging point
+2025-06-03T16:58:39.206431 - API call #970 at lat: 20.9868, lng: 88.855, keyword: EV charging point
+2025-06-03T16:58:41.458488 - API call #971 at lat: 20.9868, lng: 89.855, keyword: EV charging point
+2025-06-03T16:58:43.311137 - API call #972 at lat: 21.9868, lng: 85.855, keyword: EV charging point
+2025-06-03T16:58:45.303944 - API call #973 at lat: 21.9868, lng: 86.855, keyword: EV charging point
+2025-06-03T16:58:47.404454 - API call #974 at lat: 21.9868, lng: 87.855, keyword: EV charging point
+2025-06-03T16:58:52.942115 - API call #976 at lat: 21.9868, lng: 88.855, keyword: EV charging point
+2025-06-03T16:58:55.151900 - API call #977 at lat: 21.9868, lng: 89.855, keyword: EV charging point
+2025-06-03T16:58:57.182984 - API call #978 at lat: 22.9868, lng: 85.855, keyword: EV charging point
+2025-06-03T16:58:59.422366 - API call #979 at lat: 22.9868, lng: 86.855, keyword: EV charging point
+2025-06-03T16:59:01.439111 - API call #980 at lat: 22.9868, lng: 87.855, keyword: EV charging point
+2025-06-03T16:59:06.548047 - API call #982 at lat: 22.9868, lng: 88.855, keyword: EV charging point
+2025-06-03T16:59:15.332860 - API call #985 at lat: 22.9868, lng: 89.855, keyword: EV charging point
+2025-06-03T16:59:17.350151 - API call #986 at lat: 23.9868, lng: 85.855, keyword: EV charging point
+2025-06-03T16:59:19.388267 - API call #987 at lat: 23.9868, lng: 86.855, keyword: EV charging point
+2025-06-03T16:59:24.515279 - API call #989 at lat: 23.9868, lng: 87.855, keyword: EV charging point
+2025-06-03T16:59:26.540275 - API call #990 at lat: 23.9868, lng: 88.855, keyword: EV charging point
+2025-06-03T16:59:28.707215 - API call #991 at lat: 23.9868, lng: 89.855, keyword: EV charging point
+2025-06-03T16:59:30.724178 - API call #992 at lat: 24.9868, lng: 85.855, keyword: EV charging point
+2025-06-03T16:59:32.964196 - API call #993 at lat: 24.9868, lng: 86.855, keyword: EV charging point
+2025-06-03T16:59:34.906548 - API call #994 at lat: 24.9868, lng: 87.855, keyword: EV charging point
+2025-06-03T16:59:36.941959 - API call #995 at lat: 24.9868, lng: 88.855, keyword: EV charging point
+2025-06-03T16:59:39.103551 - API call #996 at lat: 24.9868, lng: 89.855, keyword: EV charging point
+2025-06-03T16:59:41.141069 - Finished data collection for West Bengal
+2025-06-03T16:59:41.141069 - Total API calls: 996
+2025-06-03T16:59:41.141069 - Estimated API cost (USD): $31.87
+2025-06-03T16:59:41.141069 - Starting data collection for Andaman and Nicobar Islands
+2025-06-03T16:59:41.141069 - API call #997 at lat: 9.7401, lng: 90.6586, keyword: EV charging point
+2025-06-03T16:59:42.923015 - API call #998 at lat: 9.7401, lng: 91.6586, keyword: EV charging point
+2025-06-03T16:59:44.834562 - API call #999 at lat: 9.7401, lng: 92.6586, keyword: EV charging point
+2025-06-03T16:59:46.716764 - API call #1000 at lat: 9.7401, lng: 93.6586, keyword: EV charging point
+2025-06-03T16:59:48.498414 - API call #1001 at lat: 9.7401, lng: 94.6586, keyword: EV charging point
+2025-06-03T16:59:50.257648 - API call #1002 at lat: 10.7401, lng: 90.6586, keyword: EV charging point
+2025-06-03T16:59:51.979241 - API call #1003 at lat: 10.7401, lng: 91.6586, keyword: EV charging point
+2025-06-03T16:59:53.721219 - API call #1004 at lat: 10.7401, lng: 92.6586, keyword: EV charging point
+2025-06-03T16:59:55.531871 - API call #1005 at lat: 10.7401, lng: 93.6586, keyword: EV charging point
+2025-06-03T16:59:57.330940 - API call #1006 at lat: 10.7401, lng: 94.6586, keyword: EV charging point
+2025-06-03T16:59:59.132513 - API call #1007 at lat: 11.7401, lng: 90.6586, keyword: EV charging point
+2025-06-03T17:00:01.112247 - API call #1008 at lat: 11.7401, lng: 91.6586, keyword: EV charging point
+2025-06-03T17:00:02.876628 - API call #1009 at lat: 11.7401, lng: 92.6586, keyword: EV charging point
+2025-06-03T17:00:04.578342 - API call #1010 at lat: 11.7401, lng: 93.6586, keyword: EV charging point
+2025-06-03T17:00:06.314383 - API call #1011 at lat: 11.7401, lng: 94.6586, keyword: EV charging point
+2025-06-03T17:00:08.053366 - API call #1012 at lat: 12.7401, lng: 90.6586, keyword: EV charging point
+2025-06-03T17:00:09.996106 - API call #1013 at lat: 12.7401, lng: 91.6586, keyword: EV charging point
+2025-06-03T17:00:11.990061 - API call #1014 at lat: 12.7401, lng: 92.6586, keyword: EV charging point
+2025-06-03T17:00:13.780325 - API call #1015 at lat: 12.7401, lng: 93.6586, keyword: EV charging point
+2025-06-03T17:00:15.578613 - API call #1016 at lat: 12.7401, lng: 94.6586, keyword: EV charging point
+2025-06-03T17:00:17.515794 - API call #1017 at lat: 13.7401, lng: 90.6586, keyword: EV charging point
+2025-06-03T17:00:19.256482 - API call #1018 at lat: 13.7401, lng: 91.6586, keyword: EV charging point
+2025-06-03T17:00:20.978115 - API call #1019 at lat: 13.7401, lng: 92.6586, keyword: EV charging point
+2025-06-03T17:00:22.908505 - API call #1020 at lat: 13.7401, lng: 93.6586, keyword: EV charging point
+2025-06-03T17:00:24.793381 - API call #1021 at lat: 13.7401, lng: 94.6586, keyword: EV charging point
+2025-06-03T17:00:26.584223 - Finished data collection for Andaman and Nicobar Islands
+2025-06-03T17:00:26.584223 - Total API calls: 1021
+2025-06-03T17:00:26.584223 - Estimated API cost (USD): $32.67
+2025-06-03T17:00:26.584223 - Starting data collection for Chandigarh
+2025-06-03T17:00:26.584223 - API call #1022 at lat: 28.7333, lng: 74.7794, keyword: EV charging point
+2025-06-03T17:00:28.749014 - API call #1023 at lat: 28.7333, lng: 75.7794, keyword: EV charging point
+2025-06-03T17:00:34.043254 - API call #1025 at lat: 28.7333, lng: 76.7794, keyword: EV charging point
+2025-06-03T17:00:42.798755 - API call #1028 at lat: 28.7333, lng: 77.7794, keyword: EV charging point
+2025-06-03T17:00:51.169193 - API call #1031 at lat: 28.7333, lng: 78.7794, keyword: EV charging point
+2025-06-03T17:00:56.303461 - API call #1033 at lat: 29.7333, lng: 74.7794, keyword: EV charging point
+2025-06-03T17:00:58.400645 - API call #1034 at lat: 29.7333, lng: 75.7794, keyword: EV charging point
+2025-06-03T17:01:00.379589 - API call #1035 at lat: 29.7333, lng: 76.7794, keyword: EV charging point
+2025-06-03T17:01:09.202885 - API call #1038 at lat: 29.7333, lng: 77.7794, keyword: EV charging point
+2025-06-03T17:01:17.683503 - API call #1041 at lat: 29.7333, lng: 78.7794, keyword: EV charging point
+2025-06-03T17:01:19.719489 - API call #1042 at lat: 30.7333, lng: 74.7794, keyword: EV charging point
+2025-06-03T17:01:21.856928 - API call #1043 at lat: 30.7333, lng: 75.7794, keyword: EV charging point
+2025-06-03T17:01:30.203123 - API call #1046 at lat: 30.7333, lng: 76.7794, keyword: EV charging point
+2025-06-03T17:01:38.684704 - API call #1049 at lat: 30.7333, lng: 77.7794, keyword: EV charging point
+2025-06-03T17:01:44.104297 - API call #1051 at lat: 30.7333, lng: 78.7794, keyword: EV charging point
+2025-06-03T17:01:46.448213 - API call #1052 at lat: 31.7333, lng: 74.7794, keyword: EV charging point
+2025-06-03T17:01:54.722770 - API call #1055 at lat: 31.7333, lng: 75.7794, keyword: EV charging point
+2025-06-03T17:01:59.888352 - API call #1057 at lat: 31.7333, lng: 76.7794, keyword: EV charging point
+2025-06-03T17:02:05.049788 - API call #1059 at lat: 31.7333, lng: 77.7794, keyword: EV charging point
+2025-06-03T17:02:07.084755 - API call #1060 at lat: 31.7333, lng: 78.7794, keyword: EV charging point
+2025-06-03T17:02:09.138995 - API call #1061 at lat: 32.7333, lng: 74.7794, keyword: EV charging point
+2025-06-03T17:02:14.273456 - API call #1063 at lat: 32.7333, lng: 75.7794, keyword: EV charging point
+2025-06-03T17:02:16.488546 - API call #1064 at lat: 32.7333, lng: 76.7794, keyword: EV charging point
+2025-06-03T17:02:18.507538 - API call #1065 at lat: 32.7333, lng: 77.7794, keyword: EV charging point
+2025-06-03T17:02:20.650481 - API call #1066 at lat: 32.7333, lng: 78.7794, keyword: EV charging point
+2025-06-03T17:02:22.563955 - Finished data collection for Chandigarh
+2025-06-03T17:02:22.563955 - Total API calls: 1066
+2025-06-03T17:02:22.563955 - Estimated API cost (USD): $34.11
+2025-06-03T17:02:22.563955 - Starting data collection for Dadra and Nagar Haveli and Daman and Diu
+2025-06-03T17:02:22.570521 - API call #1067 at lat: 18.1809, lng: 71.0169, keyword: EV charging point
+2025-06-03T17:02:24.518402 - API call #1068 at lat: 18.1809, lng: 72.0169, keyword: EV charging point
+2025-06-03T17:02:26.556395 - API call #1069 at lat: 18.1809, lng: 73.0169, keyword: EV charging point
+2025-06-03T17:02:31.588629 - API call #1071 at lat: 18.1809, lng: 74.0169, keyword: EV charging point
+2025-06-03T17:02:40.339795 - API call #1074 at lat: 18.1809, lng: 75.0169, keyword: EV charging point
+2025-06-03T17:02:45.730580 - API call #1076 at lat: 19.1809, lng: 71.0169, keyword: EV charging point
+2025-06-03T17:02:47.902990 - API call #1077 at lat: 19.1809, lng: 72.0169, keyword: EV charging point
+2025-06-03T17:02:49.958671 - API call #1078 at lat: 19.1809, lng: 73.0169, keyword: EV charging point
+2025-06-03T17:02:58.439624 - API call #1081 at lat: 19.1809, lng: 74.0169, keyword: EV charging point
+2025-06-03T17:03:06.824174 - API call #1084 at lat: 19.1809, lng: 75.0169, keyword: EV charging point
+2025-06-03T17:03:15.222009 - API call #1087 at lat: 20.1809, lng: 71.0169, keyword: EV charging point
+2025-06-03T17:03:17.236804 - API call #1088 at lat: 20.1809, lng: 72.0169, keyword: EV charging point
+2025-06-03T17:03:19.206866 - API call #1089 at lat: 20.1809, lng: 73.0169, keyword: EV charging point
+2025-06-03T17:03:27.633310 - API call #1092 at lat: 20.1809, lng: 74.0169, keyword: EV charging point
+2025-06-03T17:03:36.069990 - API call #1095 at lat: 20.1809, lng: 75.0169, keyword: EV charging point
+2025-06-03T17:03:44.829895 - API call #1098 at lat: 21.1809, lng: 71.0169, keyword: EV charging point
+2025-06-03T17:03:46.979971 - API call #1099 at lat: 21.1809, lng: 72.0169, keyword: EV charging point
+2025-06-03T17:03:48.997329 - API call #1100 at lat: 21.1809, lng: 73.0169, keyword: EV charging point
+2025-06-03T17:03:57.446438 - API call #1103 at lat: 21.1809, lng: 74.0169, keyword: EV charging point
+2025-06-03T17:03:59.504060 - API call #1104 at lat: 21.1809, lng: 75.0169, keyword: EV charging point
+2025-06-03T17:04:04.840402 - API call #1106 at lat: 22.1809, lng: 71.0169, keyword: EV charging point
+2025-06-03T17:04:13.359488 - API call #1109 at lat: 22.1809, lng: 72.0169, keyword: EV charging point
+2025-06-03T17:04:21.903805 - API call #1112 at lat: 22.1809, lng: 73.0169, keyword: EV charging point
+2025-06-03T17:04:30.654986 - API call #1115 at lat: 22.1809, lng: 74.0169, keyword: EV charging point
+2025-06-03T17:04:32.783889 - API call #1116 at lat: 22.1809, lng: 75.0169, keyword: EV charging point
+2025-06-03T17:04:35.013729 - Finished data collection for Dadra and Nagar Haveli and Daman and Diu
+2025-06-03T17:04:35.013729 - Total API calls: 1116
+2025-06-03T17:04:35.013729 - Estimated API cost (USD): $35.71
+2025-06-03T17:04:35.013729 - Starting data collection for Delhi
+2025-06-03T17:04:35.013729 - API call #1117 at lat: 26.6139, lng: 75.209, keyword: EV charging point
+2025-06-03T17:04:40.603496 - API call #1119 at lat: 26.6139, lng: 76.209, keyword: EV charging point
+2025-06-03T17:04:49.380783 - API call #1122 at lat: 26.6139, lng: 77.209, keyword: EV charging point
+2025-06-03T17:04:51.430806 - API call #1123 at lat: 26.6139, lng: 78.209, keyword: EV charging point
+2025-06-03T17:04:53.505304 - API call #1124 at lat: 26.6139, lng: 79.209, keyword: EV charging point
+2025-06-03T17:04:58.727107 - API call #1126 at lat: 27.6139, lng: 75.209, keyword: EV charging point
+2025-06-03T17:05:07.278157 - API call #1129 at lat: 27.6139, lng: 76.209, keyword: EV charging point
+2025-06-03T17:05:16.184322 - API call #1132 at lat: 27.6139, lng: 77.209, keyword: EV charging point
+2025-06-03T17:05:24.757594 - API call #1135 at lat: 27.6139, lng: 78.209, keyword: EV charging point
+2025-06-03T17:05:30.350241 - API call #1137 at lat: 27.6139, lng: 79.209, keyword: EV charging point
+2025-06-03T17:05:32.354549 - API call #1138 at lat: 28.6139, lng: 75.209, keyword: EV charging point
+2025-06-03T17:05:34.545708 - API call #1139 at lat: 28.6139, lng: 76.209, keyword: EV charging point
+2025-06-03T17:05:42.932106 - API call #1142 at lat: 28.6139, lng: 77.209, keyword: EV charging point
+2025-06-03T17:05:51.714324 - API call #1145 at lat: 28.6139, lng: 78.209, keyword: EV charging point
+2025-06-03T17:05:56.923622 - API call #1147 at lat: 28.6139, lng: 79.209, keyword: EV charging point
+2025-06-03T17:06:02.412621 - API call #1149 at lat: 29.6139, lng: 75.209, keyword: EV charging point
+2025-06-03T17:06:04.559348 - API call #1150 at lat: 29.6139, lng: 76.209, keyword: EV charging point
+2025-06-03T17:06:12.600522 - API call #1153 at lat: 29.6139, lng: 77.209, keyword: EV charging point
+2025-06-03T17:06:21.561022 - API call #1156 at lat: 29.6139, lng: 78.209, keyword: EV charging point
+2025-06-03T17:06:30.059333 - API call #1159 at lat: 29.6139, lng: 79.209, keyword: EV charging point
+2025-06-03T17:06:35.241660 - API call #1161 at lat: 30.6139, lng: 75.209, keyword: EV charging point
+2025-06-03T17:06:37.340660 - API call #1162 at lat: 30.6139, lng: 76.209, keyword: EV charging point
+2025-06-03T17:06:45.801292 - API call #1165 at lat: 30.6139, lng: 77.209, keyword: EV charging point
+2025-06-03T17:06:54.290409 - API call #1168 at lat: 30.6139, lng: 78.209, keyword: EV charging point
+2025-06-03T17:06:59.844552 - API call #1170 at lat: 30.6139, lng: 79.209, keyword: EV charging point
+2025-06-03T17:07:01.841544 - Finished data collection for Delhi
+2025-06-03T17:07:01.841544 - Total API calls: 1170
+2025-06-03T17:07:01.841544 - Estimated API cost (USD): $37.44
+2025-06-03T17:07:01.841544 - Starting data collection for Jammu and Kashmir
+2025-06-03T17:07:01.841544 - API call #1171 at lat: 31.7782, lng: 74.5762, keyword: EV charging point
+2025-06-03T17:07:10.707638 - API call #1174 at lat: 31.7782, lng: 75.5762, keyword: EV charging point
+2025-06-03T17:07:15.840099 - API call #1176 at lat: 31.7782, lng: 76.5762, keyword: EV charging point
+2025-06-03T17:07:21.092491 - API call #1178 at lat: 31.7782, lng: 77.5762, keyword: EV charging point
+2025-06-03T17:07:23.096044 - API call #1179 at lat: 31.7782, lng: 78.5762, keyword: EV charging point
+2025-06-03T17:07:25.177597 - API call #1180 at lat: 32.7782, lng: 74.5762, keyword: EV charging point
+2025-06-03T17:07:30.347843 - API call #1182 at lat: 32.7782, lng: 75.5762, keyword: EV charging point
+2025-06-03T17:07:32.333216 - API call #1183 at lat: 32.7782, lng: 76.5762, keyword: EV charging point
+2025-06-03T17:07:34.384973 - API call #1184 at lat: 32.7782, lng: 77.5762, keyword: EV charging point
+2025-06-03T17:07:36.369102 - API call #1185 at lat: 32.7782, lng: 78.5762, keyword: EV charging point
+2025-06-03T17:07:38.611535 - API call #1186 at lat: 33.7782, lng: 74.5762, keyword: EV charging point
+2025-06-03T17:07:40.650047 - API call #1187 at lat: 33.7782, lng: 75.5762, keyword: EV charging point
+2025-06-03T17:07:42.793658 - API call #1188 at lat: 33.7782, lng: 76.5762, keyword: EV charging point
+2025-06-03T17:07:44.977709 - API call #1189 at lat: 33.7782, lng: 77.5762, keyword: EV charging point
+2025-06-03T17:07:47.068199 - API call #1190 at lat: 33.7782, lng: 78.5762, keyword: EV charging point
+2025-06-03T17:07:49.061132 - API call #1191 at lat: 34.7782, lng: 74.5762, keyword: EV charging point
+2025-06-03T17:07:51.033297 - API call #1192 at lat: 34.7782, lng: 75.5762, keyword: EV charging point
+2025-06-03T17:07:52.884339 - API call #1193 at lat: 34.7782, lng: 76.5762, keyword: EV charging point
+2025-06-03T17:07:54.804516 - API call #1194 at lat: 34.7782, lng: 77.5762, keyword: EV charging point
+2025-06-03T17:07:56.903242 - API call #1195 at lat: 34.7782, lng: 78.5762, keyword: EV charging point
+2025-06-03T17:07:58.705711 - API call #1196 at lat: 35.7782, lng: 74.5762, keyword: EV charging point
+2025-06-03T17:08:00.695784 - API call #1197 at lat: 35.7782, lng: 75.5762, keyword: EV charging point
+2025-06-03T17:08:02.662010 - API call #1198 at lat: 35.7782, lng: 76.5762, keyword: EV charging point
+2025-06-03T17:08:04.670354 - API call #1199 at lat: 35.7782, lng: 77.5762, keyword: EV charging point
+2025-06-03T17:08:06.491589 - API call #1200 at lat: 35.7782, lng: 78.5762, keyword: EV charging point
+2025-06-03T17:08:08.405672 - Finished data collection for Jammu and Kashmir
+2025-06-03T17:08:08.405672 - Total API calls: 1200
+2025-06-03T17:08:08.405672 - Estimated API cost (USD): $38.4
+2025-06-03T17:08:08.405672 - Starting data collection for Ladakh
+2025-06-03T17:08:08.405672 - API call #1201 at lat: 32.2268, lng: 75.5619, keyword: EV charging point
+2025-06-03T17:08:10.667334 - API call #1202 at lat: 32.2268, lng: 76.5619, keyword: EV charging point
+2025-06-03T17:08:12.642542 - API call #1203 at lat: 32.2268, lng: 77.5619, keyword: EV charging point
+2025-06-03T17:08:14.830282 - API call #1204 at lat: 32.2268, lng: 78.5619, keyword: EV charging point
+2025-06-03T17:08:16.857563 - API call #1205 at lat: 32.2268, lng: 79.5619, keyword: EV charging point
+2025-06-03T17:08:18.828146 - API call #1206 at lat: 33.2268, lng: 75.5619, keyword: EV charging point
+2025-06-03T17:08:20.786683 - API call #1207 at lat: 33.2268, lng: 76.5619, keyword: EV charging point
+2025-06-03T17:08:22.876272 - API call #1208 at lat: 33.2268, lng: 77.5619, keyword: EV charging point
+2025-06-03T17:08:25.028459 - API call #1209 at lat: 33.2268, lng: 78.5619, keyword: EV charging point
+2025-06-03T17:08:27.080886 - API call #1210 at lat: 33.2268, lng: 79.5619, keyword: EV charging point
+2025-06-03T17:08:29.246176 - API call #1211 at lat: 34.2268, lng: 75.5619, keyword: EV charging point
+2025-06-03T17:08:31.535868 - API call #1212 at lat: 34.2268, lng: 76.5619, keyword: EV charging point
+2025-06-03T17:08:33.639915 - API call #1213 at lat: 34.2268, lng: 77.5619, keyword: EV charging point
+2025-06-03T17:08:35.776383 - API call #1214 at lat: 34.2268, lng: 78.5619, keyword: EV charging point
+2025-06-03T17:08:37.711506 - API call #1215 at lat: 34.2268, lng: 79.5619, keyword: EV charging point
+2025-06-03T17:08:39.909757 - API call #1216 at lat: 35.2268, lng: 75.5619, keyword: EV charging point
+2025-06-03T17:08:41.789567 - API call #1217 at lat: 35.2268, lng: 76.5619, keyword: EV charging point
+2025-06-03T17:08:43.710332 - API call #1218 at lat: 35.2268, lng: 77.5619, keyword: EV charging point
+2025-06-03T17:08:45.798359 - API call #1219 at lat: 35.2268, lng: 78.5619, keyword: EV charging point
+2025-06-03T17:08:47.769274 - API call #1220 at lat: 35.2268, lng: 79.5619, keyword: EV charging point
+2025-06-03T17:08:49.752031 - API call #1221 at lat: 36.2268, lng: 75.5619, keyword: EV charging point
+2025-06-03T17:08:51.857176 - API call #1222 at lat: 36.2268, lng: 76.5619, keyword: EV charging point
+2025-06-03T17:08:54.030111 - API call #1223 at lat: 36.2268, lng: 77.5619, keyword: EV charging point
+2025-06-03T17:08:56.338535 - API call #1224 at lat: 36.2268, lng: 78.5619, keyword: EV charging point
+2025-06-03T17:08:58.540416 - API call #1225 at lat: 36.2268, lng: 79.5619, keyword: EV charging point
+2025-06-03T17:09:00.571508 - Finished data collection for Ladakh
+2025-06-03T17:09:00.571508 - Total API calls: 1225
+2025-06-03T17:09:00.571508 - Estimated API cost (USD): $39.2
+2025-06-03T17:09:00.571508 - Starting data collection for Lakshadweep
+2025-06-03T17:09:00.571508 - API call #1226 at lat: 8.328, lng: 70.7846, keyword: EV charging point
+2025-06-03T17:09:02.463574 - API call #1227 at lat: 8.328, lng: 71.7846, keyword: EV charging point
+2025-06-03T17:09:04.341904 - API call #1228 at lat: 8.328, lng: 72.7846, keyword: EV charging point
+2025-06-03T17:09:06.671699 - API call #1229 at lat: 8.328, lng: 73.7846, keyword: EV charging point
+2025-06-03T17:09:08.638669 - API call #1230 at lat: 8.328, lng: 74.7846, keyword: EV charging point
+2025-06-03T17:09:10.577227 - API call #1231 at lat: 9.328, lng: 70.7846, keyword: EV charging point
+2025-06-03T17:09:12.629338 - API call #1232 at lat: 9.328, lng: 71.7846, keyword: EV charging point
+2025-06-03T17:09:14.587921 - API call #1233 at lat: 9.328, lng: 72.7846, keyword: EV charging point
+2025-06-03T17:09:16.502816 - API call #1234 at lat: 9.328, lng: 73.7846, keyword: EV charging point
+2025-06-03T17:09:18.363394 - API call #1235 at lat: 9.328, lng: 74.7846, keyword: EV charging point
+2025-06-03T17:09:20.593308 - API call #1236 at lat: 10.328, lng: 70.7846, keyword: EV charging point
+2025-06-03T17:09:22.686260 - API call #1237 at lat: 10.328, lng: 71.7846, keyword: EV charging point
+2025-06-03T17:09:24.565596 - API call #1238 at lat: 10.328, lng: 72.7846, keyword: EV charging point
+2025-06-03T17:09:26.511783 - API call #1239 at lat: 10.328, lng: 73.7846, keyword: EV charging point
+2025-06-03T17:09:28.576851 - API call #1240 at lat: 10.328, lng: 74.7846, keyword: EV charging point
+2025-06-03T17:09:30.843303 - API call #1241 at lat: 11.328, lng: 70.7846, keyword: EV charging point
+2025-06-03T17:09:32.683094 - API call #1242 at lat: 11.328, lng: 71.7846, keyword: EV charging point
+2025-06-03T17:09:34.534815 - API call #1243 at lat: 11.328, lng: 72.7846, keyword: EV charging point
+2025-06-03T17:09:36.646547 - API call #1244 at lat: 11.328, lng: 73.7846, keyword: EV charging point
+2025-06-03T17:09:38.896618 - API call #1245 at lat: 11.328, lng: 74.7846, keyword: EV charging point
+2025-06-03T17:09:41.165439 - API call #1246 at lat: 12.328, lng: 70.7846, keyword: EV charging point
+2025-06-03T17:09:43.022591 - API call #1247 at lat: 12.328, lng: 71.7846, keyword: EV charging point
+2025-06-03T17:09:44.920764 - API call #1248 at lat: 12.328, lng: 72.7846, keyword: EV charging point
+2025-06-03T17:09:47.001182 - API call #1249 at lat: 12.328, lng: 73.7846, keyword: EV charging point
+2025-06-03T17:09:49.345413 - API call #1250 at lat: 12.328, lng: 74.7846, keyword: EV charging point
+2025-06-03T17:09:58.075230 - Finished data collection for Lakshadweep
+2025-06-03T17:09:58.075230 - Total API calls: 1252
+2025-06-03T17:09:58.075230 - Estimated API cost (USD): $40.06
+2025-06-03T17:09:58.075230 - Starting data collection for Puducherry
+2025-06-03T17:09:58.075230 - API call #1253 at lat: 9.9416, lng: 77.8083, keyword: EV charging point
+2025-06-03T17:10:07.041966 - API call #1256 at lat: 9.9416, lng: 78.8083, keyword: EV charging point
+2025-06-03T17:10:12.463503 - API call #1258 at lat: 9.9416, lng: 79.8083, keyword: EV charging point
+2025-06-03T17:10:14.710638 - API call #1259 at lat: 9.9416, lng: 80.8083, keyword: EV charging point
+2025-06-03T17:10:16.804647 - API call #1260 at lat: 9.9416, lng: 81.8083, keyword: EV charging point
+2025-06-03T17:10:18.796046 - API call #1261 at lat: 10.9416, lng: 77.8083, keyword: EV charging point
+2025-06-03T17:10:27.598507 - API call #1264 at lat: 10.9416, lng: 78.8083, keyword: EV charging point
+2025-06-03T17:10:36.974749 - API call #1267 at lat: 10.9416, lng: 79.8083, keyword: EV charging point
+2025-06-03T17:10:39.161480 - API call #1268 at lat: 10.9416, lng: 80.8083, keyword: EV charging point
+2025-06-03T17:10:41.362408 - API call #1269 at lat: 10.9416, lng: 81.8083, keyword: EV charging point
+2025-06-03T17:10:43.325774 - API call #1270 at lat: 11.9416, lng: 77.8083, keyword: EV charging point
+2025-06-03T17:10:53.213167 - API call #1273 at lat: 11.9416, lng: 78.8083, keyword: EV charging point
+2025-06-03T17:10:58.795544 - API call #1275 at lat: 11.9416, lng: 79.8083, keyword: EV charging point
+2025-06-03T17:11:07.662915 - API call #1278 at lat: 11.9416, lng: 80.8083, keyword: EV charging point
+2025-06-03T17:11:09.925297 - API call #1279 at lat: 11.9416, lng: 81.8083, keyword: EV charging point
+2025-06-03T17:11:13.055540 - API call #1280 at lat: 12.9416, lng: 77.8083, keyword: EV charging point
+2025-06-03T17:11:22.903281 - API call #1283 at lat: 12.9416, lng: 78.8083, keyword: EV charging point
+2025-06-03T17:11:31.850066 - API call #1286 at lat: 12.9416, lng: 79.8083, keyword: EV charging point
+2025-06-03T17:11:40.633658 - API call #1289 at lat: 12.9416, lng: 80.8083, keyword: EV charging point
+2025-06-03T17:11:42.902945 - API call #1290 at lat: 12.9416, lng: 81.8083, keyword: EV charging point
+2025-06-03T17:11:45.232405 - API call #1291 at lat: 13.9416, lng: 77.8083, keyword: EV charging point
+2025-06-03T17:11:47.424947 - API call #1292 at lat: 13.9416, lng: 78.8083, keyword: EV charging point
+2025-06-03T17:11:50.146521 - API call #1293 at lat: 13.9416, lng: 79.8083, keyword: EV charging point
+2025-06-03T17:11:59.236404 - API call #1296 at lat: 13.9416, lng: 80.8083, keyword: EV charging point
+2025-06-03T17:12:01.392493 - API call #1297 at lat: 13.9416, lng: 81.8083, keyword: EV charging point
+2025-06-03T17:12:03.504431 - Finished data collection for Puducherry
+2025-06-03T17:12:03.504431 - Total API calls: 1297
+2025-06-03T17:12:03.504431 - Estimated API cost (USD): $41.5
